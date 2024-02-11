@@ -1,5 +1,6 @@
 name: musikfrosch
 channels:
+  - conda-forge
   - defaults
 dependencies:
   - spyder
