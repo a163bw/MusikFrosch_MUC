@@ -9,3 +9,9 @@ https://mybinder.org/v2/gh/a163bw/MusikFrosch_MUC.git/main?labpath=MusikFrosch_d
 
 
 https://mybinder.org/v2/gh/a163bw/MusikFrosch_MUC.git/main?labpath=voila%2Frender%2Fpath%2Fto%2FMusikFrosch_database.ipynb
+
+
+https://discourse.jupyter.org/t/voila-doesnt-work-in-binder-404-not-found-error/11389/3
+
+
+https://discourse.jupyter.org/t/voila-doesnt-work-in-binder-404-not-found-error/11389/3
