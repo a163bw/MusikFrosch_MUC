@@ -1,0 +1,14 @@
+name: musikfrosch
+channels:
+  - defaults
+dependencies:
+  - spyder
+  - jupyterlab
+  - pandas
+  - numpy
+  - bqplot
+  - ipyvolume
+  - voila
+  - ipywidgets
+  - scipy
+
