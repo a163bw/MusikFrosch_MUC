@@ -1,0 +1,30 @@
+   
+Repository in folder /home/a163/GitRepo/musikfrosch_mc/ updated successfully.
+Running script run_main.sh from repository folder...
+Repository in folder /home/a163/GitRepo/musikfrosch_mc/ updated successfully.
+Folder /home/a163/GitRepo/MusikFrosch_MUC/ is a Git repository.
+Repository in folder /home/a163/GitRepo/musikfrosch_mc/ updated successfully.
+Folder /home/a163/GitRepo/MusikFrosch_MUC/ is a Git repository.
+   
+|CREATE_Log                                                         240602-15_12_58|
+|Work directory: /home/a163/GitRepo/musikfrosch_mc                                 |
+|Spotify token                                                 |nam:Musik|typ: user|
+|read_old_data                                                 |len:  297|sta: DONE|
+|screped pages                                       |act:   37|pas:  584|sta: DONE|
+|concerts                                                      |len:   31|sta:FOUND|
+|artis ID added                                                |len:   31|sta: DONE|
+|track ID list added                                           |len:   31|sta: DONE|
+|roulette wheel selection                                                |sta: DONE|
+|M<3 | MusikFrosch_MUC updated                       | rm:  302|add:  626|sta: DONE|
+last update: 2024/06/02-15:15  Last update                                         2024/06/02, 15:15:54
+|weekend | MusikFrosch_MUC updated                   | rm:    0|add:    0|sta: DONE|
+last update: 2024/06/02-15:15  Last update                                         2024/06/02, 15:15:55
+|last minute | MusikFrosch_MUC updated               | rm:    0|add:    3|sta: DONE|
+last update: 2024/06/02-15:15  Last update                                         2024/06/02, 15:15:55
+|early bird | MusikFrosch_MUC updated                | rm:    0|add:   39|sta: DONE|
+last update: 2024/06/02-15:15  Last update                                         2024/06/02, 15:15:56
+|MusikFrosch_MC_test updated                         | rm:    0|add:   83|sta: DONE|
+last update: 2024/06/02-15:15  Last update                                         2024/06/02, 15:15:57
+|MusikFrosch_MUC updated                             | rm:    0|add:   83|sta: DONE|
+last update: 2024/06/02-15:15  Last update                                         2024/06/02, 15:15:58
+|finished                                                      |len:  334|sta: DONE|
