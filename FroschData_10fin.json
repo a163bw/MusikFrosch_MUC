@@ -1387,6 +1387,62 @@
         "url": "https://import-export.cc/event/psychedelic-porn-funk-experience-x-bongojoe-records-summer-on-wax-w-cyril-cyril/"
     },
     {
+        "date": "2024-06-08T20:00:00",
+        "event": "ALIEN WEAPONRY - EU/UK SUMMER TOUR",
+        "items": [
+            {
+                "id": "2vov4zolAP7zbIhB5CsIPm",
+                "name": "ALIEN WEAPONRY",
+                "pop": 38,
+                "tracksID": [
+                    "0YWyKtLAlmVjryfY6CSxYE",
+                    "4JTbBZhYkqc8lcAC4DNawJ",
+                    "3Eglua945MIV5c1MR7DYJm",
+                    "3qLDySGB9zMhqFDbENM7nL",
+                    "3hlbYDbcOlRwLDoLSAgNCs",
+                    "6TWusB8IRbn4OCJm3jLQJr",
+                    "2pb3u1UsRg8QLXht9HSjpe",
+                    "2aLms1mOkGubfc70V4hLkC",
+                    "4eYrkCiHUMOevQC5hJIswa",
+                    "5ngUdZMBShu8y5xf6wSYZT"
+                ],
+                "tracksName": [
+                    "Kai Tangata",
+                    "Holding My Breath",
+                    "R\u016b Ana Te Whenua",
+                    "Blinded",
+                    "Raupatu",
+                    "Ahi K\u0101",
+                    "Sun Up To Sun Down - Remix",
+                    "Tangaroa",
+                    "Hatupatu",
+                    "Rage - It Takes over Again"
+                ],
+                "tracksPOP": [
+                    48,
+                    41,
+                    40,
+                    36,
+                    35,
+                    32,
+                    27,
+                    30,
+                    30,
+                    29
+                ]
+            }
+        ],
+        "location": "BACKSTAGE HALLE",
+        "name": "ALIEN WEAPONRY",
+        "tracks": [
+            "0YWyKtLAlmVjryfY6CSxYE",
+            "2pb3u1UsRg8QLXht9HSjpe",
+            "3hlbYDbcOlRwLDoLSAgNCs"
+        ],
+        "type": "konzert",
+        "url": "https://backstage.eu/alien-weaponry-eu-uk-summer-tour.html"
+    },
+    {
         "date": "2024-06-08T22:00:00",
         "event": "PRLJAVO KAZALISTE - Live 2024",
         "items": [
@@ -1729,6 +1785,24 @@
         ],
         "type": "konzert",
         "url": "https://backstage.eu/ic3peak-live-2024.html"
+    },
+    {
+        "date": "2024-06-12T20:00:00",
+        "event": "ImproSchau M\u00fcnchen",
+        "items": [
+            {
+                "id": 0,
+                "name": "ImproSchau M\u00fcnchen",
+                "pop": 0,
+                "tracksID": [],
+                "tracksName": [],
+                "tracksPOP": []
+            }
+        ],
+        "location": "Heppel&Ettlich",
+        "tracks": [],
+        "type": "Improtheater",
+        "url": "https://www.yesticket.org/event/de/improschau-muenchen-12-06-24/"
     },
     {
         "date": "2024-06-12T20:00:00",
@@ -2594,6 +2668,62 @@
         "url": "https://strom-muc.de/event/matthew-mole/"
     },
     {
+        "date": "2024-06-14T00:00:00",
+        "event": "matthew mole",
+        "items": [
+            {
+                "id": "1LfnIuggAY5qQdS4sP1K86",
+                "name": "matthew mole",
+                "pop": 44,
+                "tracksID": [
+                    "3mN9RcQg6oSPDSumrYNLFa",
+                    "05iPxFdqky2tGL6VQDWM8G",
+                    "3vQe560Jawf6WeHNG3x6XB",
+                    "0u0zYnOEX9pZjASBBg9kne",
+                    "6cRkm1iHWDYpkQanPyLqwn",
+                    "0mHIH06f3QmVLU5rd0KiHB",
+                    "2clElTsD1qOztIwI9CuJvu",
+                    "13vx6Zhvz7A8gDNquI56FE",
+                    "0A94iIgZgZJ9WlxVJjZOPX",
+                    "3kOKTpAFBN8iaGMmriaLYK"
+                ],
+                "tracksName": [
+                    "Take Yours, I'll Take Mine",
+                    "No Diggity",
+                    "Always By My Side",
+                    "The Art Of Letting Go",
+                    "Running After You",
+                    "I'm With You",
+                    "Okay",
+                    "The Wedding Song",
+                    "Pennsylvania",
+                    "Run"
+                ],
+                "tracksPOP": [
+                    56,
+                    42,
+                    39,
+                    38,
+                    38,
+                    31,
+                    35,
+                    34,
+                    34,
+                    33
+                ]
+            }
+        ],
+        "location": "strom_muc",
+        "name": "matthew mole",
+        "tracks": [
+            "3kOKTpAFBN8iaGMmriaLYK",
+            "3mN9RcQg6oSPDSumrYNLFa",
+            "6cRkm1iHWDYpkQanPyLqwn"
+        ],
+        "type": "konzert",
+        "url": "https://strom-muc.de/event/matthew-mole/"
+    },
+    {
         "date": "2024-06-14T19:30:00",
         "event": "Lass Zocken",
         "items": [
@@ -3317,6 +3447,144 @@
         "tracks": [
             "1M6s7pCJoZya1xlAljvRqk",
             "3ZV8pAviifK6PdhGfBMGfy",
+            "4ttkgU0TFkiYJE1CxDzq1r"
+        ],
+        "type": "konzert",
+        "url": "https://import-export.cc/event/krewnity/"
+    },
+    {
+        "date": "2024-06-15T15:00:00",
+        "event": "KREWNITY",
+        "items": [
+            {
+                "id": 0,
+                "name": "KREWNITY",
+                "pop": 0,
+                "tracksID": [],
+                "tracksName": [],
+                "tracksPOP": []
+            },
+            {
+                "id": 0,
+                "name": "All People Under A Groove",
+                "pop": 0,
+                "tracksID": [],
+                "tracksName": [],
+                "tracksPOP": []
+            },
+            {
+                "id": "3YDkHfQTXespAgO8sGO4fY",
+                "name": "C-Ras",
+                "pop": 41,
+                "tracksID": [
+                    "4ttkgU0TFkiYJE1CxDzq1r",
+                    "45q1qDCroRe6WWz9gKBKp3",
+                    "2THTcdez6VfbvElJK5Gz36",
+                    "3ZV8pAviifK6PdhGfBMGfy",
+                    "1M6s7pCJoZya1xlAljvRqk",
+                    "6cOlhoZvgjrTQPuQiVlXnw",
+                    "7aOR4MlYQuuPG86aui1pvI",
+                    "3pL22yTJ1lQkrVQFMlRWyI",
+                    "6oDZ1is2LaaUBc1smcW6B7",
+                    "1Qd5xEfWpEsofAJumKZUK4"
+                ],
+                "tracksName": [
+                    "\u0627\u0644\u0646\u062c\u062f\u0629",
+                    "\u0643\u0627\u0644\u0642\u0645\u0631",
+                    "\u0623\u0646\u0627 \u0648\u0642\u0647\u0648\u062a\u064a",
+                    "\u0623\u0648\u0637\u0627\u0646",
+                    "\u0644\u0633\u062a \u0623\u0646\u0627",
+                    "\u0628\u0639\u062f \u0627\u0644\u062e\u0631\u064a\u0641",
+                    "\u0636\u0648\u0636\u0627\u0621",
+                    "\u0648\u0627\u0642\u0639",
+                    "\u0634\u0645\u0627\u0631\u064a\u062e",
+                    "\u062e\u0637 \u0633\u0627\u062e\u0646"
+                ],
+                "tracksPOP": [
+                    47,
+                    46,
+                    44,
+                    43,
+                    40,
+                    39,
+                    37,
+                    36,
+                    35,
+                    35
+                ]
+            },
+            {
+                "id": "79TwGrUIB1FgQiP7gzIBtG",
+                "name": "Wonuola",
+                "pop": 0,
+                "tracksID": [
+                    "4aL6gmlM3S4MgZsGpWex5s",
+                    "4b1xswefp2uVOoJRMy8CFD",
+                    "6ZE21cIRJrUjXTBV2Bwy61",
+                    "5gBZn3rww6vqN1V3xbeFbP",
+                    "2Q779ikwMaTvv8Y9PvyGSg"
+                ],
+                "tracksName": [
+                    "On Your Mind",
+                    "Cigarette",
+                    "Shakara",
+                    "Desaparece",
+                    "Red Room"
+                ],
+                "tracksPOP": [
+                    2,
+                    1,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "id": "6nbFxGicebE2X3jYoOrPU6",
+                "name": "ArOzA",
+                "pop": 9,
+                "tracksID": [
+                    "26bIF2NkqkK9FSi4fJNZ6p",
+                    "3j2jFQtrHGvkuh58RgvcoM",
+                    "0Lceo4Q3Y0CKDoVmEdGxSa",
+                    "4FxiNJ9EA6PNqZ64epOM3X",
+                    "2X3y31bRC2mSn0qOjtjvR0",
+                    "5uLpwtWvBDwSarco7TycnG",
+                    "3Mpa4b1amegs83IuQNgeCm"
+                ],
+                "tracksName": [
+                    "Statik",
+                    "Apole",
+                    "Pulsion",
+                    "Silvestre",
+                    "Bader",
+                    "Choker",
+                    "Renaissance"
+                ],
+                "tracksPOP": [
+                    13,
+                    13,
+                    13,
+                    13,
+                    13,
+                    13,
+                    13
+                ]
+            },
+            {
+                "id": 0,
+                "name": "Dr. Getdown",
+                "pop": 0,
+                "tracksID": [],
+                "tracksName": [],
+                "tracksPOP": []
+            }
+        ],
+        "location": "import-export",
+        "name": "Dr. Getdown",
+        "tracks": [
+            "1Qd5xEfWpEsofAJumKZUK4",
+            "3j2jFQtrHGvkuh58RgvcoM",
             "4ttkgU0TFkiYJE1CxDzq1r"
         ],
         "type": "konzert",
@@ -9269,6 +9537,62 @@
         "url": "https://strom-muc.de/event/yonaka-2/"
     },
     {
+        "date": "2024-07-02T00:00:00",
+        "event": "yonaka",
+        "items": [
+            {
+                "id": "3Wcyta3gkOdQ4TfY0WyZpu",
+                "name": "yonaka",
+                "pop": 50,
+                "tracksID": [
+                    "794IGyga5qnhlzOUimLOMw",
+                    "5r8tAjAxquehOkOruflfLP",
+                    "49wRXpkVW8Adz5UA7XnFqt",
+                    "6CVfZfkdd4Jdvg8JnBL6Oy",
+                    "7qfZLqQvOE35OeiT9v70kO",
+                    "53OkMD2iZg9u0Di5kaj0CI",
+                    "0uuxAXS1X7kH0WjC0nD6q9",
+                    "73BDFtqyGUgQN35Gw3jzYH",
+                    "6AdRVAebFOz9BVShFxmYzE",
+                    "7GENPjwC2JICc2oCe2N2Xm"
+                ],
+                "tracksName": [
+                    "Seize the Power",
+                    "PREDATOR",
+                    "Detonate",
+                    "Clique",
+                    "Fight For The Right",
+                    "Call Me a Saint",
+                    "By The Time You're Reading This",
+                    "Teach Me To Fight",
+                    "Greedy",
+                    "F.W.T.B. - grandson Remix"
+                ],
+                "tracksPOP": [
+                    54,
+                    51,
+                    50,
+                    50,
+                    48,
+                    46,
+                    45,
+                    45,
+                    44,
+                    42
+                ]
+            }
+        ],
+        "location": "strom_muc",
+        "name": "yonaka",
+        "tracks": [
+            "53OkMD2iZg9u0Di5kaj0CI",
+            "73BDFtqyGUgQN35Gw3jzYH",
+            "794IGyga5qnhlzOUimLOMw"
+        ],
+        "type": "konzert",
+        "url": "https://strom-muc.de/event/yonaka-2/"
+    },
+    {
         "date": "2024-07-02T19:30:00",
         "event": "Jazz Jam",
         "items": [
@@ -9432,6 +9756,62 @@
             "1BZIA7XMGTCQll05XIMFLY",
             "37gIBYfygRKwGBLC36PK9w",
             "7qBvZUa1VYjlAO3cDonJUt"
+        ],
+        "type": "konzert",
+        "url": "https://www.muffatwerk.de/de/events/view/7099/g-rag-und-die-landlergschwister"
+    },
+    {
+        "date": "2024-07-03T00:00:00",
+        "event": "G.Rag und die Landlergschwister",
+        "items": [
+            {
+                "id": "2eeEmPEIuXMBNJ8IZRSxG7",
+                "name": "g.rag und die landlergschwister",
+                "pop": 5,
+                "tracksID": [
+                    "37gIBYfygRKwGBLC36PK9w",
+                    "4VMtYuxDRmogF0FgQ2PuOW",
+                    "0t0pW3TaLxfUW5foFPm8Ns",
+                    "7qBvZUa1VYjlAO3cDonJUt",
+                    "3H1STQtbe3Hc7LqYKg08pn",
+                    "058UtWjOrovmG7FCRaVkYn",
+                    "0OIihVRShyTneWYisH4nmZ",
+                    "1BZIA7XMGTCQll05XIMFLY",
+                    "3XcezYnlpksSMJs70WHqza",
+                    "4TcfiBhTwUz4cZTDOCPaBx"
+                ],
+                "tracksName": [
+                    "Rambling Man - Hank Williams Remix",
+                    "Monaco Franze",
+                    "You Wanted a Hit",
+                    "Der R\u00e4uber und der Prinz",
+                    "Das Model",
+                    "Odessa",
+                    "Chambacu",
+                    "Boarischer Zwiefacher",
+                    "Honky Tonkin'",
+                    "Odessa"
+                ],
+                "tracksPOP": [
+                    9,
+                    9,
+                    5,
+                    5,
+                    4,
+                    4,
+                    4,
+                    2,
+                    2,
+                    1
+                ]
+            }
+        ],
+        "location": "Biergarten am Muffatwerk",
+        "name": "g.rag und die landlergschwister",
+        "tracks": [
+            "1BZIA7XMGTCQll05XIMFLY",
+            "37gIBYfygRKwGBLC36PK9w",
+            "4VMtYuxDRmogF0FgQ2PuOW"
         ],
         "type": "konzert",
         "url": "https://www.muffatwerk.de/de/events/view/7099/g-rag-und-die-landlergschwister"
@@ -11349,6 +11729,118 @@
         "url": "https://milla-club.de/hoosh/"
     },
     {
+        "date": "2024-07-09T20:00:00",
+        "event": "KRISIUN - Live 2024",
+        "items": [
+            {
+                "id": "3pzAW9xs16rX8fukH8wV6N",
+                "name": "KRISIUN",
+                "pop": 27,
+                "tracksID": [
+                    "7weCxvlfuw44C3ntdb3qGp",
+                    "7jxi4lKNR9b2rdkYgcAZvv",
+                    "2eeqs5FMSGXtYfo1H4EPrx",
+                    "6sTv0Cpc9QtTUSHI7Kj5Ay",
+                    "6fThEC9Kk1ieDgl5jTbIgL",
+                    "5IRnGVSiPlPUcXPHPt33ds",
+                    "0jtmuTWmfvZZ3PgqzpAtfP",
+                    "7y7kErXpGObNElIgZ13Aut",
+                    "4VB8QjEVpE9LeBym2yJOSg",
+                    "5Gx9DIkSrnLdmi45qJzXAj"
+                ],
+                "tracksName": [
+                    "Blood of Lions",
+                    "The Will to Potency",
+                    "Combustion Inferno",
+                    "Scars of the Hatred",
+                    "Serpent Messiah",
+                    "Descending Abomination",
+                    "Sworn Enemies",
+                    "Extincao em Massa",
+                    "The Great Execution",
+                    "Necronomical"
+                ],
+                "tracksPOP": [
+                    32,
+                    25,
+                    24,
+                    23,
+                    21,
+                    19,
+                    19,
+                    19,
+                    18,
+                    17
+                ]
+            }
+        ],
+        "location": "BACKSTAGE HALLE",
+        "name": "KRISIUN",
+        "tracks": [
+            "6sTv0Cpc9QtTUSHI7Kj5Ay",
+            "7jxi4lKNR9b2rdkYgcAZvv",
+            "7weCxvlfuw44C3ntdb3qGp"
+        ],
+        "type": "konzert",
+        "url": "https://backstage.eu/krisiun-live-2024.html"
+    },
+    {
+        "date": "2024-07-09T20:00:00",
+        "event": "THE CASUALTIES - Europa Tour 2024",
+        "items": [
+            {
+                "id": "5uMNhVG30JzeZ5xtPb1tqR",
+                "name": "THE CASUALTIES",
+                "pop": 42,
+                "tracksID": [
+                    "5gl3rFZJnNwemQFD2qkZu7",
+                    "2PLqbVr0N1QKyDAq67g43M",
+                    "4peQhkiyLf9OOq2dC2RXNf",
+                    "1XOaFDh1TNCSwtus4v0vFX",
+                    "4onKDOYooNaBgWzOuS8Cla",
+                    "4u3Qo40xY9dndqZ8xeiuSe",
+                    "4fZOZvwTtf6A2DluDuRB0T",
+                    "2ZY6epihkMGYDJMoW2rj2G",
+                    "6P7CNvyPFbuM7nmdrtWb8m",
+                    "4ZVKiUiDBTFFkH2Kp8ym2g"
+                ],
+                "tracksName": [
+                    "Unknown Soldier",
+                    "We Are All We Have",
+                    "Get off My Back",
+                    "R.A.M.O.N.E.S.",
+                    "Punk Rock Love",
+                    "Carry on the Flag",
+                    "1312",
+                    "Tomorrow Belongs to Us",
+                    "Made in N.Y.C.",
+                    "Corazones Intoxicados"
+                ],
+                "tracksPOP": [
+                    48,
+                    46,
+                    42,
+                    41,
+                    37,
+                    36,
+                    35,
+                    35,
+                    34,
+                    31
+                ]
+            }
+        ],
+        "location": "BACKSTAGE CLUB",
+        "name": "THE CASUALTIES",
+        "tracks": [
+            "2ZY6epihkMGYDJMoW2rj2G",
+            "4peQhkiyLf9OOq2dC2RXNf",
+            "5gl3rFZJnNwemQFD2qkZu7"
+        ],
+        "type": "konzert",
+        "url": "https://backstage.eu/the-casualties-europa-tour-2024.html"
+    },
+    {
         "date": "2024-07-10T00:00:00",
         "event": "G.Rag und die Landlergschwister",
         "items": [
@@ -13243,6 +13735,62 @@
         "url": "https://www.feierwerk.de/konzert-kulturprogramm/detail/2024-07-19--8"
     },
     {
+        "date": "2024-07-19T19:00:00",
+        "event": "VULVARINE - Free&Easy 2024",
+        "items": [
+            {
+                "id": "16MG8AG1y22HDmY8IoI5lY",
+                "name": "VULVARINE",
+                "pop": 6,
+                "tracksID": [
+                    "4eWoC9NIQizhVHpH3UWYQq",
+                    "21OoB0QmUQ5v2gpmgkEU4a",
+                    "5fGzkThoBGmqbIVUO43jSu",
+                    "7pjyXXw9aPs0BxUeU7g4X2",
+                    "3nuQ4oTgM7Z85rsYh8MFUD",
+                    "53p6QIpYfUSvIvpjyWHDv0",
+                    "2JtKEMOjFmvrAsHqaybNf3",
+                    "210tj3NL2mTHYgXjnvSjFt",
+                    "6tCmYPZpIPFWRtfE2aedut",
+                    "6pVv9sLd0Svshhiytw2DUU"
+                ],
+                "tracksName": [
+                    "Rock Bottom",
+                    "Good Time",
+                    "Animal",
+                    "Dangerous",
+                    "M.C.Q.",
+                    "White Pricks",
+                    "Way Out",
+                    "Streetcat",
+                    "Bad Medication",
+                    "Don\u00b4t Need Your Help"
+                ],
+                "tracksPOP": [
+                    12,
+                    8,
+                    6,
+                    6,
+                    5,
+                    4,
+                    3,
+                    3,
+                    3,
+                    3
+                ]
+            }
+        ],
+        "location": "BACKSTAGE HALLE",
+        "name": "VULVARINE",
+        "tracks": [
+            "3nuQ4oTgM7Z85rsYh8MFUD",
+            "4eWoC9NIQizhVHpH3UWYQq",
+            "53p6QIpYfUSvIvpjyWHDv0"
+        ],
+        "type": "konzert",
+        "url": "https://backstage.eu/vulvarine-free-easy-2024.html"
+    },
+    {
         "date": "2024-07-19T20:00:00",
         "event": "\"KUMPELS IN KUTTEN\": HEAVY METAL IM RUHRGEBIET - Free&Easy 2024",
         "items": [
@@ -14140,6 +14688,62 @@
         ],
         "type": "konzert",
         "url": "https://backstage.eu/manntra-free-easy-2024.html"
+    },
+    {
+        "date": "2024-07-25T20:00:00",
+        "event": "7 SECONDS - Free&Easy 2024",
+        "items": [
+            {
+                "id": "1ByqGbfU0crCY2zEr0U8Sv",
+                "name": "7 SECONDS",
+                "pop": 38,
+                "tracksID": [
+                    "161AGnyxELSCSLQj510Xnp",
+                    "0e6NdBMP1cCCKeV23A1DtW",
+                    "3XhdiZ7lSt9F91jIRoVjyH",
+                    "4fDpak2dBr6d3lJxJPqj3o",
+                    "1Hezl9sI2dFA0G8OYla6hT",
+                    "3UxSqpgQDYmiXnZkBcx4YB",
+                    "0kqwGIJsjKQGIvybnbdtY5",
+                    "2iCaxQleiUAsCsGMW5o0Fd",
+                    "7lW0ssw3va4AcjVygV1OCL",
+                    "00Vly5Pr7X1YGgFJBE6cxA"
+                ],
+                "tracksName": [
+                    "Sooner or Later",
+                    "This Is Temporary",
+                    "All Came Undone",
+                    "Meant to Be My Own",
+                    "Big Hardcore Mystery",
+                    "Sour Grapes",
+                    "My Band, Our Crew",
+                    "Best Friend",
+                    "Still On It",
+                    "Young 'Til I Die"
+                ],
+                "tracksPOP": [
+                    43,
+                    41,
+                    38,
+                    38,
+                    38,
+                    37,
+                    36,
+                    34,
+                    33,
+                    31
+                ]
+            }
+        ],
+        "location": "BACKSTAGE HALLE",
+        "name": "7 SECONDS",
+        "tracks": [
+            "161AGnyxELSCSLQj510Xnp",
+            "2iCaxQleiUAsCsGMW5o0Fd",
+            "3XhdiZ7lSt9F91jIRoVjyH"
+        ],
+        "type": "konzert",
+        "url": "https://backstage.eu/7-seconds-free-easy-2024.html"
     },
     {
         "date": "2024-07-26T00:00:00",
@@ -15961,6 +16565,24 @@
         "url": "https://import-export.cc/event/turntabletennis-38/"
     },
     {
+        "date": "2024-08-06T18:30:00",
+        "event": "TurnTableTennis",
+        "items": [
+            {
+                "id": 0,
+                "name": "TurnTableTennis",
+                "pop": 0,
+                "tracksID": [],
+                "tracksName": [],
+                "tracksPOP": []
+            }
+        ],
+        "location": "import-export",
+        "tracks": [],
+        "type": "auflegen, tischtennis",
+        "url": "https://import-export.cc/event/turntabletennis-38/"
+    },
+    {
         "date": "2024-08-06T19:30:00",
         "event": "Bel Cobain",
         "items": [
@@ -16688,6 +17310,62 @@
         "url": "https://strom-muc.de/event/upsahl/"
     },
     {
+        "date": "2024-08-14T00:00:00",
+        "event": "upsahl",
+        "items": [
+            {
+                "id": "1294QqYm1VuxxjRiL9M0h9",
+                "name": "upsahl",
+                "pop": 56,
+                "tracksID": [
+                    "5srKMwXoeyrRnyTnNbpgIW",
+                    "06ioYJ99HHjzRk8HrGfkKS",
+                    "1hf9Wu2l0XIgAcTZLSAUJe",
+                    "6lkIxqlCsnY3EW6ZobZbXi",
+                    "1nPd60em5Qwp0NPykFz5Xj",
+                    "6zgxB5Rmku4Ez6J9a0TVUo",
+                    "2XTQUwGdzWXdTjM7z2UJXr",
+                    "5LtrJHnBO57EoVHsLR6xR8",
+                    "5LJsMlAwHdRzyq6Z3lLCat",
+                    "1IfrYTBtU92JgiDSRPQH5M"
+                ],
+                "tracksName": [
+                    "People I Don't Like",
+                    "Drugs",
+                    "Shut Up",
+                    "Drugs (feat. Two Feet)",
+                    "Happy Endings (feat. iann dior and UPSAHL)",
+                    "12345SEX",
+                    "Thrill Again",
+                    "Palm Reader",
+                    "GOOD GIRL ERA (SIDE A)",
+                    "MoneyOnMyMind (feat. Absofacto)"
+                ],
+                "tracksPOP": [
+                    65,
+                    60,
+                    57,
+                    53,
+                    50,
+                    49,
+                    41,
+                    45,
+                    47,
+                    47
+                ]
+            }
+        ],
+        "location": "strom_muc",
+        "name": "upsahl",
+        "tracks": [
+            "1nPd60em5Qwp0NPykFz5Xj",
+            "2XTQUwGdzWXdTjM7z2UJXr",
+            "5srKMwXoeyrRnyTnNbpgIW"
+        ],
+        "type": "konzert",
+        "url": "https://strom-muc.de/event/upsahl/"
+    },
+    {
         "date": "2024-08-14T20:00:00",
         "event": "LESS THAN JAKE - Live 2024",
         "items": [
@@ -17167,6 +17845,62 @@
         ],
         "type": "konzert",
         "url": "https://backstage.eu/ill-nino-25-years-of-latin-metal-european-tour-2024.html"
+    },
+    {
+        "date": "2024-09-04T20:00:00",
+        "event": "BOKASSA - All out of Dreams - Releasetour",
+        "items": [
+            {
+                "id": "3QgBKy7myJIAIMe1A1y7uq",
+                "name": "BOKASSA",
+                "pop": 29,
+                "tracksID": [
+                    "108azuTlbkrLiuaRMQu2nF",
+                    "7D6jBf2oV33ek48igZz3Gv",
+                    "1pmYUaQRLm9wyFL4DMl9xc",
+                    "28XIV0dbeuFzxzPgyWydqo",
+                    "4Y8GGBXb01mTR8lVAVGawK",
+                    "1T3p6BIgRIPIz2Lfysth1a",
+                    "23LIbeT9Au8HZpLVI9eAa5",
+                    "62S58VUYDDRX7pWwEJyHAs",
+                    "14hqwpZHZCyB8wMfjbhxA9",
+                    "5pTssiM1UQBOLG3aNcCfLp"
+                ],
+                "tracksName": [
+                    "Vultures",
+                    "Retaliation",
+                    "The Ending Starts Today",
+                    "Garden of Heathen (feat. Lou Koller)",
+                    "Let's Storm The Capitol",
+                    "Mouthbreathers Inc.",
+                    "Bradford Death Squadron (feat. Aaron Beam)",
+                    "All Out Of Dreams",
+                    "Brologue",
+                    "Last Night (Was a Real Massacre)"
+                ],
+                "tracksPOP": [
+                    32,
+                    30,
+                    27,
+                    27,
+                    23,
+                    26,
+                    26,
+                    24,
+                    25,
+                    25
+                ]
+            }
+        ],
+        "location": "BACKSTAGE CLUB",
+        "name": "BOKASSA",
+        "tracks": [
+            "108azuTlbkrLiuaRMQu2nF",
+            "23LIbeT9Au8HZpLVI9eAa5",
+            "7D6jBf2oV33ek48igZz3Gv"
+        ],
+        "type": "konzert",
+        "url": "https://backstage.eu/bokassa-all-out-of-dreams-releasetour.html"
     },
     {
         "date": "2024-09-05T19:30:00",
@@ -19295,6 +20029,62 @@
         "url": "https://backstage.eu/k-fly-musik-ist-medizin-tour-2024.html"
     },
     {
+        "date": "2024-09-17T20:00:00",
+        "event": "K-FLY - \u201eMusik ist Medizin\u201c Tour 2024",
+        "items": [
+            {
+                "id": "0vLsqW05dyLvjuKKftAEGA",
+                "name": "K",
+                "pop": 72,
+                "tracksID": [
+                    "1wJxSYpxvufStONDfPfEMp",
+                    "0DQgFutYnM7A013OQF7aCd",
+                    "4Of4XmUFg8gMJSnIsUZFvD",
+                    "2cetly1jRH6uwLyOxMZVpH",
+                    "7rIiGUi1gkV0DEFBqYrgEt",
+                    "0uFJLV0o36JWnu9VnRbUMr",
+                    "6DfLRAKfG6PdjnIz5YEH0x",
+                    "6V5bayePCLAfdNrxFep9CC",
+                    "2JVshH0DZYOhY30rc6Y2gz",
+                    "0uUljgHbKtSBhxZIUoKCvX"
+                ],
+                "tracksName": [
+                    "001 - Panik im Paradies - Teil 01",
+                    "Die drei ??? Kids Titelsong",
+                    "003 - Invasion der Fliegen - Teil 40",
+                    "94 - Falsche Vampire - Teil 16",
+                    "054 - Zombie-Alarm - Teil 40",
+                    "076 - Blinde Passagiere - Teil 15",
+                    "94 - Falsche Vampire - Teil 03",
+                    "081 - Turbo-Rennen - Titelsong",
+                    "96 - Der Schrottk\u00f6nig - Teil 01",
+                    "96 - Der Schrottk\u00f6nig - Teil 21"
+                ],
+                "tracksPOP": [
+                    56,
+                    50,
+                    53,
+                    55,
+                    53,
+                    53,
+                    52,
+                    49,
+                    50,
+                    50
+                ]
+            }
+        ],
+        "location": "BACKSTAGE CLUB",
+        "name": "K",
+        "tracks": [
+            "1wJxSYpxvufStONDfPfEMp",
+            "6DfLRAKfG6PdjnIz5YEH0x",
+            "7rIiGUi1gkV0DEFBqYrgEt"
+        ],
+        "type": "konzert",
+        "url": "https://backstage.eu/k-fly-musik-ist-medizin-tour-2024.html"
+    },
+    {
         "date": "2024-09-18T00:00:00",
         "event": "tors \u2013 ins technikum verlegt",
         "items": [
@@ -20827,6 +21617,111 @@
         ],
         "type": "konzert",
         "url": "https://backstage.eu/orphaned-land-a-heaven-you-may-create-european-tour-2024.html"
+    },
+    {
+        "date": "2024-09-25T19:30:00",
+        "event": "LX & MAXWELL - OBSTSTAND III TOUR |\u00a0verlegt auf den 25.09.24",
+        "items": [
+            {
+                "id": 0,
+                "name": "LX & MAXWELL",
+                "pop": 0,
+                "tracksID": [],
+                "tracksName": [],
+                "tracksPOP": []
+            },
+            {
+                "id": "10XY9PZCJKzUFzZOdtlQLU",
+                "name": "LX",
+                "pop": 60,
+                "tracksID": [
+                    "0MT2Y0Mvbv5detaaHMM0SK",
+                    "0kLA41xkWzzYzMIEGFuDkP",
+                    "4xN9cgMVhYyhnugUFZdhcZ",
+                    "2RBGVpS1TFGte80yy3rTL7",
+                    "3KbCjPkewCmJt09FYtyVK5",
+                    "3lHuDW8SiPtnIMmaTiDFVe",
+                    "2n9Svm9Y0zSmbzo08U3NCy",
+                    "0B3oydD4ATrmoBk1QMzNt6",
+                    "62jXPzFQsrrZLXbf5GZi8k",
+                    "5CJqhXiUiK2rVowtbeLjyd"
+                ],
+                "tracksName": [
+                    "Motorsport",
+                    "HaifischNikez Allstars",
+                    "Vielen Dank",
+                    "Optimal",
+                    "10 Jahre",
+                    "187 Gang",
+                    "SLANG MANG",
+                    "Verpennt",
+                    "Compton",
+                    "Bob Marley"
+                ],
+                "tracksPOP": [
+                    66,
+                    55,
+                    54,
+                    53,
+                    52,
+                    51,
+                    50,
+                    43,
+                    48,
+                    48
+                ]
+            },
+            {
+                "id": "0b62itBWBdLgiecXjXCqKC",
+                "name": "MAXWELL",
+                "pop": 61,
+                "tracksID": [
+                    "6hjck7ERXicpsW51UkdHCA",
+                    "0fRgkMkq6XVYbGC8HIVvgd",
+                    "0kLA41xkWzzYzMIEGFuDkP",
+                    "7qwWwsa6otLM0UOEamls4s",
+                    "4xN9cgMVhYyhnugUFZdhcZ",
+                    "2IvrIIvwA3zEPXmJitBlJD",
+                    "3KbCjPkewCmJt09FYtyVK5",
+                    "14OLkF8PnpsE7z9zt7FMu1",
+                    "4TVWrmLEcYcbFLvPGOSWuZ",
+                    "3lHuDW8SiPtnIMmaTiDFVe"
+                ],
+                "tracksName": [
+                    "Safari",
+                    "BAR & CLUB",
+                    "HaifischNikez Allstars",
+                    "Skifahren (feat. Joshi Mizu)",
+                    "Vielen Dank",
+                    "Der Berg ruft",
+                    "10 Jahre",
+                    "Spielplatz",
+                    "Prollz",
+                    "187 Gang"
+                ],
+                "tracksPOP": [
+                    64,
+                    57,
+                    55,
+                    51,
+                    54,
+                    53,
+                    52,
+                    51,
+                    51,
+                    51
+                ]
+            }
+        ],
+        "location": "BACKSTAGE WERK",
+        "name": "MAXWELL",
+        "tracks": [
+            "0MT2Y0Mvbv5detaaHMM0SK",
+            "0kLA41xkWzzYzMIEGFuDkP",
+            "2RBGVpS1TFGte80yy3rTL7"
+        ],
+        "type": "konzert",
+        "url": "https://backstage.eu/lx-maxwell-obststand-iii-tour.html"
     },
     {
         "date": "2024-09-26T20:30:00",
@@ -22680,6 +23575,61 @@
         "url": "https://backstage.eu/our-last-night-you-re-up-europe-01-10-24.html"
     },
     {
+        "date": "2024-10-01T20:00:00",
+        "event": "3LNA - Herz Bricht Tour",
+        "items": [
+            {
+                "id": "1emgDf5qBtbL909f2Pt7uP",
+                "name": "3LNA",
+                "pop": 34,
+                "tracksID": [
+                    "70W4ZdVWdPfDvOwAy9s1kv",
+                    "1aPd3DwTf55asZCMSuaYGb",
+                    "63955v4FepifI0kIwwd5Qc",
+                    "0J7XFx01lrlEjrvXWDPz2x",
+                    "2QO2MKTzDhoatw6xGlX9x2",
+                    "4dLLj2iINGVZrZ6B7SoOS8",
+                    "4lBFo0E6TIoQAoSVSALWYb",
+                    "4wKmQJ2RO00P8WdQJmqG6a",
+                    "7lyP4Wo5gKlrscCwHp5CEL",
+                    "42MrEB5o61blVebFOBWklK"
+                ],
+                "tracksName": [
+                    "DJ in Berlin (P.Vanillaboy Edit)",
+                    "Rosa Rot",
+                    "U8 Hermannplatz",
+                    "kann nicht schlafen (ich lieg wach)",
+                    "du denkst an mich",
+                    "NIEGEHABT",
+                    "in meinem kopf",
+                    "Butterflies",
+                    "wiedersehen",
+                    "buona notte"
+                ],
+                "tracksPOP": [
+                    39,
+                    39,
+                    35,
+                    34,
+                    33,
+                    26,
+                    24,
+                    25,
+                    26,
+                    25
+                ]
+            }
+        ],
+        "location": "BACKSTAGE CLUB",
+        "name": "3LNA",
+        "tracks": [
+            "1aPd3DwTf55asZCMSuaYGb",
+            "63955v4FepifI0kIwwd5Qc"
+        ],
+        "type": "konzert",
+        "url": "https://backstage.eu/3lna-herz-bricht-tour.html"
+    },
+    {
         "date": "2024-10-02T00:00:00",
         "event": "leif vollebekk",
         "items": [
@@ -24167,6 +25117,62 @@
         ],
         "type": "konzert",
         "url": "https://backstage.eu/ochmoneks-unbesiegbar-tour-2024.html"
+    },
+    {
+        "date": "2024-10-06T00:00:00",
+        "event": "Stanovsky",
+        "items": [
+            {
+                "id": "4GR8jECs0wPPXOaF1sfYmP",
+                "name": "stanovsky",
+                "pop": 28,
+                "tracksID": [
+                    "19XTfACt5ydlm3pF2g0F7h",
+                    "0kbmZL7c7RR1fwB5H9SlCH",
+                    "5GPhyhlQfvokpeHckFYtQi",
+                    "2EfYTU8IJDpficUcIdOqyu",
+                    "29DLe8ECHHEPMnH4HCHbGS",
+                    "6toQ6T0tXZm6XZy1dKHrEF",
+                    "6Iu3BXEoEzinGG6ahxGtEv",
+                    "4Jgzikvx7b345W7EKq5lTP",
+                    "5NJQfROW8YQIRGC8LDt1xx",
+                    "5TJkUr03vTnhMiAvo81uQ8"
+                ],
+                "tracksName": [
+                    "Leergetanzt",
+                    "Arcachon",
+                    "Optimist",
+                    "Trockener Tabak",
+                    "Zen Mode",
+                    "Lungenfl\u00fcgel",
+                    "Boombox",
+                    "Plattenbau",
+                    "D\u00fcnnes Eis",
+                    "Schwerelos"
+                ],
+                "tracksPOP": [
+                    39,
+                    33,
+                    29,
+                    30,
+                    27,
+                    25,
+                    22,
+                    22,
+                    19,
+                    16
+                ]
+            }
+        ],
+        "location": "Milla",
+        "name": "stanovsky",
+        "tracks": [
+            "19XTfACt5ydlm3pF2g0F7h",
+            "4Jgzikvx7b345W7EKq5lTP",
+            "6Iu3BXEoEzinGG6ahxGtEv"
+        ],
+        "type": "konzert",
+        "url": "https://www.muffatwerk.de/de/events/view/7084/stanovsky"
     },
     {
         "date": "2024-10-06T19:30:00",
@@ -27553,6 +28559,62 @@
         ],
         "type": "konzert",
         "url": "https://www.muffatwerk.de/de/events/view/6955/imminence"
+    },
+    {
+        "date": "2024-10-20T00:00:00",
+        "event": "jordan prince",
+        "items": [
+            {
+                "id": "0Oq9REYtjmphBb0rv4JbyH",
+                "name": "jordan prince",
+                "pop": 11,
+                "tracksID": [
+                    "4UmrXqqg37Z9t2ViIjs2dI",
+                    "1rfvLC8bjvX49VxGnBEXC0",
+                    "4HKwPlqWuuxMaYHhHgAJ0x",
+                    "1PzWg2ndsFZzxDtzSVFxbK",
+                    "4ytzZjGYXthyJEm8wL8H9R",
+                    "610PD28zoQKQDoXB35jslE",
+                    "2qGGfIayTGGFTuFyhu1ASb",
+                    "6OsLquZ15I2OBJIHpYc5Dw",
+                    "3ZTtVZnrmsjsjph7OoTYDh",
+                    "7ESHnzbT9gkBKGf5yYCmwh"
+                ],
+                "tracksName": [
+                    "Smilin' (Back at Me)",
+                    "Most Famous Surprise",
+                    "Fresh Ground (feat. Tim Hecking)",
+                    "Fresh Ground",
+                    "James",
+                    "Only Room for One (feat. Tim Hecking)",
+                    "I Wish I Hadn't Got Stoned",
+                    "The Crooked Rail",
+                    "Count on Me",
+                    "Legendary Love (feat. Tim Hecking)"
+                ],
+                "tracksPOP": [
+                    24,
+                    14,
+                    11,
+                    8,
+                    7,
+                    6,
+                    1,
+                    1,
+                    2,
+                    2
+                ]
+            }
+        ],
+        "location": "strom_muc",
+        "name": "jordan prince",
+        "tracks": [
+            "1rfvLC8bjvX49VxGnBEXC0",
+            "2qGGfIayTGGFTuFyhu1ASb",
+            "4UmrXqqg37Z9t2ViIjs2dI"
+        ],
+        "type": "konzert",
+        "url": "https://strom-muc.de/event/jordan-prince/"
     },
     {
         "date": "2024-10-20T19:30:00",
@@ -31160,6 +32222,62 @@
         "url": "https://www.feierwerk.de/konzert-kulturprogramm/detail/2024-11-04--1"
     },
     {
+        "date": "2024-11-04T20:00:00",
+        "event": "",
+        "items": [
+            {
+                "id": "15QhuBSLfDNECfF8wvxj0M",
+                "name": "THE MYSTERINES",
+                "pop": 39,
+                "tracksID": [
+                    "6xfeVHIcavY2ZwwASl00j4",
+                    "2wb55krslcGE17P1BHeqH1",
+                    "1W3fMkViHndp2kv7PQNfAQ",
+                    "5yOnx6qeKUtMie3WlfUkAt",
+                    "3pNxB32GZ03zJQ3fmUqsj5",
+                    "60LKpOJR8e1rentSnw7hzx",
+                    "36NeDg7YTvvkceGZtq9eLl",
+                    "3tDcg4ZD9QVjPOgv7NROui",
+                    "3zQfXRaZkNQRXT9D9fANOh",
+                    "4nF3iFdYCTcuj3bNeHBsze"
+                ],
+                "tracksName": [
+                    "Sink Ya Teeth",
+                    "Stray",
+                    "Hung Up",
+                    "Take Control",
+                    "Life's a Bitch (But I Like it So Much)",
+                    "Begin Again",
+                    "Dangerous",
+                    "In My Head",
+                    "Who's Ur Girl?",
+                    "All These Things"
+                ],
+                "tracksPOP": [
+                    45,
+                    45,
+                    42,
+                    41,
+                    39,
+                    34,
+                    33,
+                    31,
+                    33,
+                    32
+                ]
+            }
+        ],
+        "location": "feierwerk Kranhalle",
+        "name": "THE MYSTERINES",
+        "tracks": [
+            "2wb55krslcGE17P1BHeqH1",
+            "3pNxB32GZ03zJQ3fmUqsj5",
+            "5yOnx6qeKUtMie3WlfUkAt"
+        ],
+        "type": "konzert",
+        "url": "https://www.feierwerk.de/konzert-kulturprogramm/detail/2024-11-04-"
+    },
+    {
         "date": "2024-11-05T20:00:00",
         "event": "GEOFF TATE - The Big Rock Show Tour 2024",
         "items": [
@@ -31214,6 +32332,144 @@
         ],
         "type": "konzert",
         "url": "https://backstage.eu/geoff-tate-the-big-rock-show-tour-2024.html"
+    },
+    {
+        "date": "2024-11-05T20:00:00",
+        "event": "Scala & Kolacny Brothers - Gloaming",
+        "items": [
+            {
+                "id": "5cXCuJjbyxee1uCILXatYZ",
+                "name": "Scala & Kolacny Brothers",
+                "pop": 42,
+                "tracksID": [
+                    "5sT9L8WpqE9Ux1LpNyHGWi",
+                    "5lYO7bXfHqZgUmOH7kJYHz",
+                    "1dWmSN2fUoOxFOnXtWcDpo",
+                    "5WAdxow8ofiTbUyt05Wiil",
+                    "2FgkPIkOZcUIJ3kqWZXj4E",
+                    "3UMfwUYJjjIBtlqnAKwWmP",
+                    "4rhc6AssN7qbQsf4vu5pNw",
+                    "0vXRGJ1Z2G1UO6b3Th5cun",
+                    "5oGPS51DFM0LcYUgGpMWZS",
+                    "73fhf1cmFFWx3lTWCK21Hz"
+                ],
+                "tracksName": [
+                    "Creep",
+                    "Nothing Else Matters",
+                    "J'ai demand\u00e9 \u00e0 la lune",
+                    "I Touch Myself",
+                    "Hungriges Herz",
+                    "With or Without You",
+                    "Life on Mars",
+                    "Le vent nous portera",
+                    "Everything in Its Right Place",
+                    "The One I Love"
+                ],
+                "tracksPOP": [
+                    45,
+                    44,
+                    40,
+                    39,
+                    37,
+                    36,
+                    35,
+                    33,
+                    33,
+                    32
+                ]
+            },
+            {
+                "id": "5cXCuJjbyxee1uCILXatYZ",
+                "name": "Scala",
+                "pop": 42,
+                "tracksID": [
+                    "5sT9L8WpqE9Ux1LpNyHGWi",
+                    "5lYO7bXfHqZgUmOH7kJYHz",
+                    "1dWmSN2fUoOxFOnXtWcDpo",
+                    "5WAdxow8ofiTbUyt05Wiil",
+                    "2FgkPIkOZcUIJ3kqWZXj4E",
+                    "3UMfwUYJjjIBtlqnAKwWmP",
+                    "4rhc6AssN7qbQsf4vu5pNw",
+                    "0vXRGJ1Z2G1UO6b3Th5cun",
+                    "5oGPS51DFM0LcYUgGpMWZS",
+                    "73fhf1cmFFWx3lTWCK21Hz"
+                ],
+                "tracksName": [
+                    "Creep",
+                    "Nothing Else Matters",
+                    "J'ai demand\u00e9 \u00e0 la lune",
+                    "I Touch Myself",
+                    "Hungriges Herz",
+                    "With or Without You",
+                    "Life on Mars",
+                    "Le vent nous portera",
+                    "Everything in Its Right Place",
+                    "The One I Love"
+                ],
+                "tracksPOP": [
+                    45,
+                    44,
+                    40,
+                    39,
+                    37,
+                    36,
+                    35,
+                    33,
+                    33,
+                    32
+                ]
+            },
+            {
+                "id": "5cXCuJjbyxee1uCILXatYZ",
+                "name": "Kolacny Brothers",
+                "pop": 42,
+                "tracksID": [
+                    "5sT9L8WpqE9Ux1LpNyHGWi",
+                    "5lYO7bXfHqZgUmOH7kJYHz",
+                    "1dWmSN2fUoOxFOnXtWcDpo",
+                    "5WAdxow8ofiTbUyt05Wiil",
+                    "2FgkPIkOZcUIJ3kqWZXj4E",
+                    "3UMfwUYJjjIBtlqnAKwWmP",
+                    "4rhc6AssN7qbQsf4vu5pNw",
+                    "0vXRGJ1Z2G1UO6b3Th5cun",
+                    "5oGPS51DFM0LcYUgGpMWZS",
+                    "73fhf1cmFFWx3lTWCK21Hz"
+                ],
+                "tracksName": [
+                    "Creep",
+                    "Nothing Else Matters",
+                    "J'ai demand\u00e9 \u00e0 la lune",
+                    "I Touch Myself",
+                    "Hungriges Herz",
+                    "With or Without You",
+                    "Life on Mars",
+                    "Le vent nous portera",
+                    "Everything in Its Right Place",
+                    "The One I Love"
+                ],
+                "tracksPOP": [
+                    45,
+                    44,
+                    40,
+                    39,
+                    37,
+                    36,
+                    35,
+                    33,
+                    33,
+                    32
+                ]
+            }
+        ],
+        "location": "BACKSTAGE WERK",
+        "name": "Kolacny Brothers",
+        "tracks": [
+            "5lYO7bXfHqZgUmOH7kJYHz",
+            "5sT9L8WpqE9Ux1LpNyHGWi",
+            "73fhf1cmFFWx3lTWCK21Hz"
+        ],
+        "type": "konzert",
+        "url": "https://backstage.eu/scala-kolacny-brothers-gloaming.html"
     },
     {
         "date": "2024-11-06T00:00:00",
@@ -33212,6 +34468,62 @@
         "url": "https://milla-club.de/salt-tree/"
     },
     {
+        "date": "2024-11-11T19:30:00",
+        "event": "Salt Tree",
+        "items": [
+            {
+                "id": "4xNez1q78QXUBq6zvKuNrU",
+                "name": "salt tree",
+                "pop": 50,
+                "tracksID": [
+                    "3tY7BVvQ8MVQgF6wLHZEni",
+                    "5QwXfiLqoj8AJzwYRtNx5C",
+                    "4ccYow5an64MRTuiSnSh2b",
+                    "7FouFHy0cvr4T5v2jmqVtU",
+                    "681SXNq6WwBPFtC95pdVcZ",
+                    "6u9yalfXvX7lDkWpMYZ44J",
+                    "1mqIXvshRM1IGh6tlzzjDm",
+                    "5JDLi91s9VNDHe8rkvTOdh",
+                    "1x8yFhcdS5NgTceVdjT24m",
+                    "7IP1ll1n0NxkiDLhMA98R4"
+                ],
+                "tracksName": [
+                    "I'm On Fire",
+                    "Out of the Water",
+                    "Sparkly Socks",
+                    "She's The One",
+                    "Cold Ways",
+                    "Rising Again",
+                    "Follow Me in the Ocean",
+                    "Coming Home to You",
+                    "Warm Ocean",
+                    "Let My Guard Down"
+                ],
+                "tracksPOP": [
+                    61,
+                    57,
+                    54,
+                    48,
+                    46,
+                    45,
+                    42,
+                    41,
+                    40,
+                    40
+                ]
+            }
+        ],
+        "location": "milla_club",
+        "name": "salt tree",
+        "tracks": [
+            "1mqIXvshRM1IGh6tlzzjDm",
+            "3tY7BVvQ8MVQgF6wLHZEni",
+            "4ccYow5an64MRTuiSnSh2b"
+        ],
+        "type": "konzert",
+        "url": "https://milla-club.de/salt-tree/"
+    },
+    {
         "date": "2024-11-11T20:00:00",
         "event": "NIZI19 - AKH & KRACH TOUR 2024",
         "items": [
@@ -33545,6 +34857,62 @@
         ],
         "type": "konzert",
         "url": "https://www.feierwerk.de/konzert-kulturprogramm/detail/2024-11-11-"
+    },
+    {
+        "date": "2024-11-11T20:00:00",
+        "event": "NIZI19 - AKH & KRACH TOUR 2024",
+        "items": [
+            {
+                "id": "2IVvZIe3P9BMuCI6h48Bjg",
+                "name": "NIZI19",
+                "pop": 59,
+                "tracksID": [
+                    "3R9tMNW32FRhXSUZOQT0dd",
+                    "1DIqiqN9afvCS2IirZtJ5u",
+                    "14UUBO41DkFSEA4NoRpFTq",
+                    "4OvjDisi6wFGWLmjtEFDir",
+                    "3g80ePm2llwjSscq5URune",
+                    "7swOeXVc7QXlE8liDv87Va",
+                    "6VG2wPOp4ehwdswytpnMdw",
+                    "1Jygol1XrhFzX9XJJY2IcA",
+                    "5p5sP9mSrjHGvBu575JYLD",
+                    "0EsbOkROZEauEJL3En3y25"
+                ],
+                "tracksName": [
+                    "dass du wei\u00dft",
+                    "Disney",
+                    "6 Nullen (feat. Omar101)",
+                    "Stra\u00dfe studiert",
+                    "Niemand",
+                    "Ah Ah",
+                    "\u00d6sterreich",
+                    "auf alles!",
+                    "Y-3",
+                    "2wasser2sprite (feat. Pashanim)"
+                ],
+                "tracksPOP": [
+                    46,
+                    56,
+                    56,
+                    55,
+                    55,
+                    55,
+                    54,
+                    54,
+                    52,
+                    51
+                ]
+            }
+        ],
+        "location": "BACKSTAGE CLUB",
+        "name": "NIZI19",
+        "tracks": [
+            "14UUBO41DkFSEA4NoRpFTq",
+            "1DIqiqN9afvCS2IirZtJ5u",
+            "5p5sP9mSrjHGvBu575JYLD"
+        ],
+        "type": "konzert",
+        "url": "https://backstage.eu/nizi19-akh-krach-tour-2024.html"
     },
     {
         "date": "2024-11-12T00:00:00",
@@ -35120,6 +36488,62 @@
         "url": "https://backstage.eu/smash-into-pieces-manifest-europe-tour-2024.html"
     },
     {
+        "date": "2024-11-15T20:00:00",
+        "event": "SMASH INTO PIECES - MANIFEST EUROPE TOUR 2024",
+        "items": [
+            {
+                "id": "2vhrwzjf9H3icunkVFi9tq",
+                "name": "SMASH INTO PIECES",
+                "pop": 60,
+                "tracksID": [
+                    "4P95NVkHsLm95s8Pb9buPs",
+                    "00FghqGHLb7jBSBvIT6W9O",
+                    "5D29PI3g8UmTHLnjX7e3CQ",
+                    "4AdrWhRcSBYmZlF9X8yeCb",
+                    "0WDlEgbYPtcxUn4CKoI0uU",
+                    "3wKrTUsTyHA0BPzoyOe1kO",
+                    "2tEB9GEBU7IbpiHAdyivt2",
+                    "5IppCMMctxTtqPTeDlvyKs",
+                    "4cDHZygn3hStTmnngmNsWo",
+                    "7dthOj5YOnhm7f5ek9QIiG"
+                ],
+                "tracksName": [
+                    "Heroes Are Calling",
+                    "Six Feet Under",
+                    "All Eyes on You",
+                    "Trigger",
+                    "Afterglow",
+                    "Flame",
+                    "Venom",
+                    "Boomerang",
+                    "Let Me Be Your Superhero",
+                    "Flow"
+                ],
+                "tracksPOP": [
+                    56,
+                    53,
+                    58,
+                    51,
+                    55,
+                    53,
+                    50,
+                    53,
+                    50,
+                    47
+                ]
+            }
+        ],
+        "location": "Muffatwerk",
+        "name": "SMASH INTO PIECES",
+        "tracks": [
+            "00FghqGHLb7jBSBvIT6W9O",
+            "5D29PI3g8UmTHLnjX7e3CQ",
+            "5IppCMMctxTtqPTeDlvyKs"
+        ],
+        "type": "konzert",
+        "url": "https://backstage.eu/smash-into-pieces-manifest-europe-tour-2024.html"
+    },
+    {
         "date": "2024-11-16T00:00:00",
         "event": "\u00e4tna",
         "items": [
@@ -35417,6 +36841,62 @@
         "url": "https://strom-muc.de/event/aetna/"
     },
     {
+        "date": "2024-11-16T00:00:00",
+        "event": "\u00e4tna",
+        "items": [
+            {
+                "id": "4ORnI4BzjKFbUply6fRvkX",
+                "name": "\u00e4tna",
+                "pop": 40,
+                "tracksID": [
+                    "2Sxti9gKyS8zxdI0yV3wvC",
+                    "1otEy9kQnCyhQa1qvl7KoM",
+                    "2z0IvBi4B2HOV1PEhiiowj",
+                    "6mAJTxk3J3ifwnCKKjKBMK",
+                    "3CuHNwe5re2CcjlmX6MmN1",
+                    "5MRZtv3Y05zBNbsnoaAi1f",
+                    "2eX6o1ewHlbOTbmVjO85or",
+                    "64tGc4FJt1AumDWwYjhVNA",
+                    "31dVOOab6MB4rCoYQzKcLA",
+                    "4ZhRddutIAnleTnvqir5LM"
+                ],
+                "tracksName": [
+                    "Tuk Tuk (feat. \u00c4TNA)",
+                    "Come To Me",
+                    "Come To Me",
+                    "Hiatus",
+                    "Lucky Dancer",
+                    "Flow - orbit Remix",
+                    "Remission",
+                    "Try",
+                    "Made By Desire",
+                    "Alive"
+                ],
+                "tracksPOP": [
+                    27,
+                    45,
+                    39,
+                    38,
+                    36,
+                    35,
+                    34,
+                    28,
+                    27,
+                    28
+                ]
+            }
+        ],
+        "location": "strom_muc",
+        "name": "\u00e4tna",
+        "tracks": [
+            "1otEy9kQnCyhQa1qvl7KoM",
+            "2eX6o1ewHlbOTbmVjO85or",
+            "4ZhRddutIAnleTnvqir5LM"
+        ],
+        "type": "konzert",
+        "url": "https://strom-muc.de/event/aetna/"
+    },
+    {
         "date": "2024-11-16T14:00:00",
         "event": "TANZT! 2024 - Das Mittelalter- & Folk-Rock/-Metal Festival",
         "items": [
@@ -35434,6 +36914,62 @@
         "tracks": [],
         "type": "konzert",
         "url": "https://backstage.eu/tanzt-2024-das-mittelalter-folk-rock-metal-festival.html"
+    },
+    {
+        "date": "2024-11-16T18:20:00",
+        "event": "SEPULTURA - 40 YEARS FAREWELL TOUR \"CELEBRATING LIFE THROUGH DEATH\"",
+        "items": [
+            {
+                "id": "6JW8wliOEwaDZ231ZY7cf4",
+                "name": "SEPULTURA",
+                "pop": 59,
+                "tracksID": [
+                    "6ursmCnbc9oDRGa2yHKkoZ",
+                    "0QRxtcxL31dRAeiUUuENPu",
+                    "2OoS1aZFAFscH1cUiKlazH",
+                    "3Tg8JctqoeIwZ3Rue8BjaI",
+                    "1erRDf98WX0VllciGPYO1H",
+                    "1k5Jr3Ir3tXJLrI5ZsJ0fo",
+                    "3erQAddOalef7tmVpAZ3BV",
+                    "5RKNHGP5Nv526dJ5LmgcjX",
+                    "3orEDNYiGeafDlFNSAZ2Lw",
+                    "4P3pRa8uFRJo4Vo8DSwDvB"
+                ],
+                "tracksName": [
+                    "Roots Bloody Roots",
+                    "Territory",
+                    "Refuse / Resist",
+                    "Ratamahatta",
+                    "Arise",
+                    "Attitude",
+                    "Dead Embryonic Cells",
+                    "Orgasmatron",
+                    "Inner Self",
+                    "Just One Fix"
+                ],
+                "tracksPOP": [
+                    65,
+                    58,
+                    57,
+                    57,
+                    55,
+                    52,
+                    51,
+                    50,
+                    50,
+                    46
+                ]
+            }
+        ],
+        "location": "Zenith",
+        "name": "SEPULTURA",
+        "tracks": [
+            "1erRDf98WX0VllciGPYO1H",
+            "1k5Jr3Ir3tXJLrI5ZsJ0fo",
+            "6ursmCnbc9oDRGa2yHKkoZ"
+        ],
+        "type": "konzert",
+        "url": "https://backstage.eu/sepultura-40-years.html"
     },
     {
         "date": "2024-11-16T20:00:00",
@@ -36526,6 +38062,62 @@
             "2wvhy8OLnkBfThXvDwrAlj",
             "4fKbDmsSwA1jYv2yv9ma05",
             "6ViLe6lwtI6DR4YbVhAgXG"
+        ],
+        "type": "konzert",
+        "url": "https://strom-muc.de/event/leap/"
+    },
+    {
+        "date": "2024-11-21T00:00:00",
+        "event": "leap",
+        "items": [
+            {
+                "id": "6daNUvi9Bp2w8C1HoZBVIR",
+                "name": "leap",
+                "pop": 46,
+                "tracksID": [
+                    "4fKbDmsSwA1jYv2yv9ma05",
+                    "5ZeYOV8DRW4oZKU7QTPjbw",
+                    "6ViLe6lwtI6DR4YbVhAgXG",
+                    "1JyoaA4nKi5tr9edkPnZoU",
+                    "2VoB70Ax95wi1UZosTnIcE",
+                    "4QAgGxYFhbaPiHwTSKlP0s",
+                    "0zRauPREmZ4T3Sd1ufUvQt",
+                    "2wvhy8OLnkBfThXvDwrAlj",
+                    "3Lt95kIK5vGLAk353DkWP5",
+                    "7rwl9yyKS49CKRZgjCTcUc"
+                ],
+                "tracksName": [
+                    "here now",
+                    "our love in june",
+                    "frost",
+                    "memories together",
+                    "guided by light",
+                    "stay",
+                    "if i tell you, it might hurt",
+                    "maps to nowhere",
+                    "midnight blue",
+                    "trembling"
+                ],
+                "tracksPOP": [
+                    52,
+                    49,
+                    45,
+                    44,
+                    43,
+                    31,
+                    41,
+                    39,
+                    30,
+                    38
+                ]
+            }
+        ],
+        "location": "strom_muc",
+        "name": "leap",
+        "tracks": [
+            "2VoB70Ax95wi1UZosTnIcE",
+            "4QAgGxYFhbaPiHwTSKlP0s",
+            "4fKbDmsSwA1jYv2yv9ma05"
         ],
         "type": "konzert",
         "url": "https://strom-muc.de/event/leap/"
@@ -37717,6 +39309,62 @@
         "url": "https://milla-club.de/rhonda/"
     },
     {
+        "date": "2024-11-26T20:00:00",
+        "event": "THE CHATS - LIVE 2024",
+        "items": [
+            {
+                "id": "1aQ7P3HtKOQFW16ebjiks1",
+                "name": "THE CHATS",
+                "pop": 49,
+                "tracksID": [
+                    "5nw2rQXAjfpZNaMzAJ8qTX",
+                    "2mTppXqXhmlp08A8fwNSWm",
+                    "6Rz6yXr3RWpYdGst26tSYF",
+                    "3bg0C4y3BvpaB0TPj5sQlf",
+                    "4NyQwUbqvKp9RQAdhqAHX0",
+                    "5RsGSgBAkCQzTChScLpcux",
+                    "5b10YgbraRyefVi5DcvacM",
+                    "5GJhtKP7EgUVhDjrHGbF4P",
+                    "01E4LxSBkicxbOlPQKu98Z",
+                    "7quz7tumpgpHaywZaAgUcH"
+                ],
+                "tracksName": [
+                    "Smoko",
+                    "6L GTR",
+                    "Pub Feed",
+                    "Bus Money",
+                    "Drunk n Disorderly",
+                    "Struck By Lightning",
+                    "The Price Of Smokes",
+                    "Identity Theft",
+                    "Stinker",
+                    "AC/DC CD"
+                ],
+                "tracksPOP": [
+                    55,
+                    52,
+                    49,
+                    48,
+                    48,
+                    46,
+                    44,
+                    42,
+                    41,
+                    41
+                ]
+            }
+        ],
+        "location": "BACKSTAGE WERK",
+        "name": "THE CHATS",
+        "tracks": [
+            "2mTppXqXhmlp08A8fwNSWm",
+            "5nw2rQXAjfpZNaMzAJ8qTX",
+            "7quz7tumpgpHaywZaAgUcH"
+        ],
+        "type": "konzert",
+        "url": "https://backstage.eu/the-chats-live-2024.html"
+    },
+    {
         "date": "2024-11-27T00:00:00",
         "event": "MilleniumKid",
         "items": [
@@ -38133,6 +39781,24 @@
         ],
         "type": "konzert",
         "url": "https://www.muffatwerk.de/de/events/view/6912/oho-bani"
+    },
+    {
+        "date": "2024-11-28T00:00:00",
+        "event": "Das VPT: John",
+        "items": [
+            {
+                "id": 0,
+                "name": "das vpt: john",
+                "pop": 0,
+                "tracksID": [],
+                "tracksName": [],
+                "tracksPOP": []
+            }
+        ],
+        "location": "Muffathalle",
+        "tracks": [],
+        "type": "theater",
+        "url": "https://www.muffatwerk.de/de/events/view/6830/das-vpt-john"
     },
     {
         "date": "2024-11-28T00:00:00",
@@ -42991,6 +44657,25 @@
         "url": "https://www.feierwerk.de/konzert-kulturprogramm/detail/2025-01-22-bisschen-liebe-tour-2025"
     },
     {
+        "date": "2025-01-23T20:00:00",
+        "event": "DIE HERREN WESSELSKY - HEUTE SCHON GELEBT? - TOUR 2025",
+        "items": [
+            {
+                "id": 0,
+                "name": "DIE HERREN WESSELSKY",
+                "pop": 0,
+                "tracksID": [],
+                "tracksName": [],
+                "tracksPOP": []
+            }
+        ],
+        "location": "BACKSTAGE HALLE",
+        "name": "DIE HERREN WESSELSKY",
+        "tracks": [],
+        "type": "konzert",
+        "url": "https://backstage.eu/die-herren-wesselsky-heute-schon-gelebt-tour-2025.html"
+    },
+    {
         "date": "2025-01-24T00:00:00",
         "event": "efterklang",
         "items": [
@@ -44172,6 +45857,62 @@
         "url": "https://milla-club.de/milla-song-slam-15/"
     },
     {
+        "date": "2025-02-19T20:00:00",
+        "event": "UNIVERSUM25 - \"Die Maschinen wollen leben\" 2025",
+        "items": [
+            {
+                "id": "6qUSYMDqpAiP0lfyneRdpm",
+                "name": "UNIVERSUM25",
+                "pop": 24,
+                "tracksID": [
+                    "0jHY7SB5dLfBld5jaFnb7C",
+                    "49CmvsQ399ODOBcZI2thdQ",
+                    "3RCfW4wTLEmYZJZuiHiyuu",
+                    "0hLh82l2AsG4wvNKbuOJW4",
+                    "3rYckWYzQZIxh2vPblDB1O",
+                    "1bF2pUqxWVej89e4uO1kyP",
+                    "79bkNfJhlbpFwb4YjeHjkr",
+                    "4Bp7m6qQfeOSveoJe66yy9",
+                    "4S82HZ8knSjUgMm2aFIK8o",
+                    "5VrOvpP7drbCgO6OV9fWSp"
+                ],
+                "tracksName": [
+                    "Am Morgen danach",
+                    "Nur wegen dir",
+                    "Irgendwann",
+                    "Ebbe und Flut",
+                    "Der Traum ist aus",
+                    "Wir warten",
+                    "Genug",
+                    "Ozean",
+                    "Harte Kost",
+                    "Runde um Runde"
+                ],
+                "tracksPOP": [
+                    28,
+                    27,
+                    27,
+                    25,
+                    25,
+                    23,
+                    22,
+                    21,
+                    21,
+                    19
+                ]
+            }
+        ],
+        "location": "BACKSTAGE HALLE",
+        "name": "UNIVERSUM25",
+        "tracks": [
+            "0jHY7SB5dLfBld5jaFnb7C",
+            "3RCfW4wTLEmYZJZuiHiyuu",
+            "4Bp7m6qQfeOSveoJe66yy9"
+        ],
+        "type": "konzert",
+        "url": "https://backstage.eu/universum25-die-maschinen-wollen-leben-2025.html"
+    },
+    {
         "date": "2025-02-26T20:00:00",
         "event": "BAUSA - Stimme der Vernunft Tour 2025",
         "items": [
@@ -44282,6 +46023,62 @@
         ],
         "type": "konzert",
         "url": "https://backstage.eu/dirkschneider-balls-to-the-wall-40th-anniversary-tour.html"
+    },
+    {
+        "date": "2025-03-01T20:00:00",
+        "event": "ENEMY INSIDE - \"European Tour 2025\"",
+        "items": [
+            {
+                "id": "4DX0ctdZRMWec9KCiigIXy",
+                "name": "ENEMY INSIDE",
+                "pop": 41,
+                "tracksID": [
+                    "3bLzsG3qnxWAWKv6YNgUK9",
+                    "2uBfIdAX2wn7I3jroi2BFA",
+                    "6NrK2wsEUWLCgUlIXNDxTP",
+                    "3tQfcn1Z3Q079ChW4D2hH4",
+                    "0xETlTD0Lp0IhIwxL4trYK",
+                    "0fsMs4ZN2tBIlztfNxsx2I",
+                    "7FGXbXk4svxfwwVyBiC1ZH",
+                    "1OzBeOzOe8jZDap70TReaU",
+                    "3D8uiQQgFnsUblb78QyOLu",
+                    "63ORadm05lPxeFBJf7NAbo"
+                ],
+                "tracksName": [
+                    "Phoenix",
+                    "Falling Away",
+                    "Angel's Suicide",
+                    "Summer Son",
+                    "Oblivion",
+                    "Crystallize",
+                    "Lullaby",
+                    "Dynamite",
+                    "In My Blood",
+                    "Doorway to Salvation"
+                ],
+                "tracksPOP": [
+                    48,
+                    44,
+                    42,
+                    42,
+                    42,
+                    39,
+                    37,
+                    36,
+                    34,
+                    32
+                ]
+            }
+        ],
+        "location": "BACKSTAGE CLUB",
+        "name": "ENEMY INSIDE",
+        "tracks": [
+            "1OzBeOzOe8jZDap70TReaU",
+            "3bLzsG3qnxWAWKv6YNgUK9",
+            "7FGXbXk4svxfwwVyBiC1ZH"
+        ],
+        "type": "konzert",
+        "url": "https://backstage.eu/enemy-inside-european-tour-2025.html"
     },
     {
         "date": "2025-03-04T00:00:00",
@@ -44729,6 +46526,62 @@
         ],
         "type": "konzert",
         "url": "https://backstage.eu/deine-cousine-tour-2025.html"
+    },
+    {
+        "date": "2025-03-14T20:00:00",
+        "event": "CCOSMO - Live 2025",
+        "items": [
+            {
+                "id": "0DFSWsBGwp4kqEKvU9Akj4",
+                "name": "CCOSMO",
+                "pop": 38,
+                "tracksID": [
+                    "37h9bOXIQ3ebJdWxvBfY6s",
+                    "1KAj8sihsZYYBMCZuXHq3o",
+                    "6Tgq6QgQBNPScKb0R0B3xA",
+                    "5FsQedKvnDRkZEsw5UOIg4",
+                    "3qTeik8Fq0OaHyHECwHD3Q",
+                    "3ZHIJmpMSKuhf6k9gy4nxH",
+                    "6mm5gmBhG6VqVe7gZvDa35",
+                    "0XS3HL4TefjXCvW9LnfvVy",
+                    "2Q9cxltY09kfU8sgeM30Tj",
+                    "70qssJO5Jilo4V3AKCg85N"
+                ],
+                "tracksName": [
+                    "Chicago",
+                    "Tauchen",
+                    "F\u00fcr Noel",
+                    "Parallelen",
+                    "Heimweg",
+                    "N\u00e4he/Distanz",
+                    "Treibsand",
+                    "Nie passiert",
+                    "Pfeil",
+                    "Eisb\u00e4r"
+                ],
+                "tracksPOP": [
+                    44,
+                    42,
+                    42,
+                    43,
+                    38,
+                    36,
+                    36,
+                    30,
+                    31,
+                    31
+                ]
+            }
+        ],
+        "location": "BACKSTAGE HALLE",
+        "name": "CCOSMO",
+        "tracks": [
+            "37h9bOXIQ3ebJdWxvBfY6s",
+            "5FsQedKvnDRkZEsw5UOIg4",
+            "6Tgq6QgQBNPScKb0R0B3xA"
+        ],
+        "type": "konzert",
+        "url": "https://backstage.eu/ccosmo-live-2025.html"
     },
     {
         "date": "2025-03-20T00:00:00",
@@ -45907,1859 +47760,6 @@
         "url": "https://www.feierwerk.de/konzert-kulturprogramm/detail/2027-12-30-name-des-events"
     },
     {
-        "date": "2024-06-08T20:00:00",
-        "event": "ALIEN WEAPONRY - EU/UK SUMMER TOUR",
-        "items": [
-            {
-                "id": "2vov4zolAP7zbIhB5CsIPm",
-                "name": "ALIEN WEAPONRY",
-                "pop": 38,
-                "tracksID": [
-                    "0YWyKtLAlmVjryfY6CSxYE",
-                    "4JTbBZhYkqc8lcAC4DNawJ",
-                    "3Eglua945MIV5c1MR7DYJm",
-                    "3qLDySGB9zMhqFDbENM7nL",
-                    "3hlbYDbcOlRwLDoLSAgNCs",
-                    "6TWusB8IRbn4OCJm3jLQJr",
-                    "2pb3u1UsRg8QLXht9HSjpe",
-                    "2aLms1mOkGubfc70V4hLkC",
-                    "4eYrkCiHUMOevQC5hJIswa",
-                    "5ngUdZMBShu8y5xf6wSYZT"
-                ],
-                "tracksName": [
-                    "Kai Tangata",
-                    "Holding My Breath",
-                    "R\u016b Ana Te Whenua",
-                    "Blinded",
-                    "Raupatu",
-                    "Ahi K\u0101",
-                    "Sun Up To Sun Down - Remix",
-                    "Tangaroa",
-                    "Hatupatu",
-                    "Rage - It Takes over Again"
-                ],
-                "tracksPOP": [
-                    48,
-                    41,
-                    40,
-                    36,
-                    35,
-                    32,
-                    27,
-                    30,
-                    30,
-                    29
-                ]
-            }
-        ],
-        "location": "BACKSTAGE HALLE",
-        "name": "ALIEN WEAPONRY",
-        "tracks": [
-            "0YWyKtLAlmVjryfY6CSxYE",
-            "2pb3u1UsRg8QLXht9HSjpe",
-            "3hlbYDbcOlRwLDoLSAgNCs"
-        ],
-        "type": "konzert",
-        "url": "https://backstage.eu/alien-weaponry-eu-uk-summer-tour.html"
-    },
-    {
-        "date": "2024-06-12T20:00:00",
-        "event": "ImproSchau M\u00fcnchen",
-        "items": [
-            {
-                "id": 0,
-                "name": "ImproSchau M\u00fcnchen",
-                "pop": 0,
-                "tracksID": [],
-                "tracksName": [],
-                "tracksPOP": []
-            }
-        ],
-        "location": "Heppel&Ettlich",
-        "tracks": [],
-        "type": "Improtheater",
-        "url": "https://www.yesticket.org/event/de/improschau-muenchen-12-06-24/"
-    },
-    {
-        "date": "2024-06-14T00:00:00",
-        "event": "matthew mole",
-        "items": [
-            {
-                "id": "1LfnIuggAY5qQdS4sP1K86",
-                "name": "matthew mole",
-                "pop": 44,
-                "tracksID": [
-                    "3mN9RcQg6oSPDSumrYNLFa",
-                    "05iPxFdqky2tGL6VQDWM8G",
-                    "3vQe560Jawf6WeHNG3x6XB",
-                    "0u0zYnOEX9pZjASBBg9kne",
-                    "6cRkm1iHWDYpkQanPyLqwn",
-                    "0mHIH06f3QmVLU5rd0KiHB",
-                    "2clElTsD1qOztIwI9CuJvu",
-                    "13vx6Zhvz7A8gDNquI56FE",
-                    "0A94iIgZgZJ9WlxVJjZOPX",
-                    "3kOKTpAFBN8iaGMmriaLYK"
-                ],
-                "tracksName": [
-                    "Take Yours, I'll Take Mine",
-                    "No Diggity",
-                    "Always By My Side",
-                    "The Art Of Letting Go",
-                    "Running After You",
-                    "I'm With You",
-                    "Okay",
-                    "The Wedding Song",
-                    "Pennsylvania",
-                    "Run"
-                ],
-                "tracksPOP": [
-                    56,
-                    42,
-                    39,
-                    38,
-                    38,
-                    31,
-                    35,
-                    34,
-                    34,
-                    33
-                ]
-            }
-        ],
-        "location": "strom_muc",
-        "name": "matthew mole",
-        "tracks": [
-            "3kOKTpAFBN8iaGMmriaLYK",
-            "3mN9RcQg6oSPDSumrYNLFa",
-            "6cRkm1iHWDYpkQanPyLqwn"
-        ],
-        "type": "konzert",
-        "url": "https://strom-muc.de/event/matthew-mole/"
-    },
-    {
-        "date": "2024-06-15T15:00:00",
-        "event": "KREWNITY",
-        "items": [
-            {
-                "id": 0,
-                "name": "KREWNITY",
-                "pop": 0,
-                "tracksID": [],
-                "tracksName": [],
-                "tracksPOP": []
-            },
-            {
-                "id": 0,
-                "name": "All People Under A Groove",
-                "pop": 0,
-                "tracksID": [],
-                "tracksName": [],
-                "tracksPOP": []
-            },
-            {
-                "id": "3YDkHfQTXespAgO8sGO4fY",
-                "name": "C-Ras",
-                "pop": 41,
-                "tracksID": [
-                    "4ttkgU0TFkiYJE1CxDzq1r",
-                    "45q1qDCroRe6WWz9gKBKp3",
-                    "2THTcdez6VfbvElJK5Gz36",
-                    "3ZV8pAviifK6PdhGfBMGfy",
-                    "1M6s7pCJoZya1xlAljvRqk",
-                    "6cOlhoZvgjrTQPuQiVlXnw",
-                    "7aOR4MlYQuuPG86aui1pvI",
-                    "3pL22yTJ1lQkrVQFMlRWyI",
-                    "6oDZ1is2LaaUBc1smcW6B7",
-                    "1Qd5xEfWpEsofAJumKZUK4"
-                ],
-                "tracksName": [
-                    "\u0627\u0644\u0646\u062c\u062f\u0629",
-                    "\u0643\u0627\u0644\u0642\u0645\u0631",
-                    "\u0623\u0646\u0627 \u0648\u0642\u0647\u0648\u062a\u064a",
-                    "\u0623\u0648\u0637\u0627\u0646",
-                    "\u0644\u0633\u062a \u0623\u0646\u0627",
-                    "\u0628\u0639\u062f \u0627\u0644\u062e\u0631\u064a\u0641",
-                    "\u0636\u0648\u0636\u0627\u0621",
-                    "\u0648\u0627\u0642\u0639",
-                    "\u0634\u0645\u0627\u0631\u064a\u062e",
-                    "\u062e\u0637 \u0633\u0627\u062e\u0646"
-                ],
-                "tracksPOP": [
-                    47,
-                    46,
-                    44,
-                    43,
-                    40,
-                    39,
-                    37,
-                    36,
-                    35,
-                    35
-                ]
-            },
-            {
-                "id": "79TwGrUIB1FgQiP7gzIBtG",
-                "name": "Wonuola",
-                "pop": 0,
-                "tracksID": [
-                    "4aL6gmlM3S4MgZsGpWex5s",
-                    "4b1xswefp2uVOoJRMy8CFD",
-                    "6ZE21cIRJrUjXTBV2Bwy61",
-                    "5gBZn3rww6vqN1V3xbeFbP",
-                    "2Q779ikwMaTvv8Y9PvyGSg"
-                ],
-                "tracksName": [
-                    "On Your Mind",
-                    "Cigarette",
-                    "Shakara",
-                    "Desaparece",
-                    "Red Room"
-                ],
-                "tracksPOP": [
-                    2,
-                    1,
-                    0,
-                    0,
-                    0
-                ]
-            },
-            {
-                "id": "6nbFxGicebE2X3jYoOrPU6",
-                "name": "ArOzA",
-                "pop": 9,
-                "tracksID": [
-                    "26bIF2NkqkK9FSi4fJNZ6p",
-                    "3j2jFQtrHGvkuh58RgvcoM",
-                    "0Lceo4Q3Y0CKDoVmEdGxSa",
-                    "4FxiNJ9EA6PNqZ64epOM3X",
-                    "2X3y31bRC2mSn0qOjtjvR0",
-                    "5uLpwtWvBDwSarco7TycnG",
-                    "3Mpa4b1amegs83IuQNgeCm"
-                ],
-                "tracksName": [
-                    "Statik",
-                    "Apole",
-                    "Pulsion",
-                    "Silvestre",
-                    "Bader",
-                    "Choker",
-                    "Renaissance"
-                ],
-                "tracksPOP": [
-                    13,
-                    13,
-                    13,
-                    13,
-                    13,
-                    13,
-                    13
-                ]
-            },
-            {
-                "id": 0,
-                "name": "Dr. Getdown",
-                "pop": 0,
-                "tracksID": [],
-                "tracksName": [],
-                "tracksPOP": []
-            }
-        ],
-        "location": "import-export",
-        "name": "Dr. Getdown",
-        "tracks": [
-            "1Qd5xEfWpEsofAJumKZUK4",
-            "3j2jFQtrHGvkuh58RgvcoM",
-            "4ttkgU0TFkiYJE1CxDzq1r"
-        ],
-        "type": "konzert",
-        "url": "https://import-export.cc/event/krewnity/"
-    },
-    {
-        "date": "2024-07-02T00:00:00",
-        "event": "yonaka",
-        "items": [
-            {
-                "id": "3Wcyta3gkOdQ4TfY0WyZpu",
-                "name": "yonaka",
-                "pop": 50,
-                "tracksID": [
-                    "794IGyga5qnhlzOUimLOMw",
-                    "5r8tAjAxquehOkOruflfLP",
-                    "49wRXpkVW8Adz5UA7XnFqt",
-                    "6CVfZfkdd4Jdvg8JnBL6Oy",
-                    "7qfZLqQvOE35OeiT9v70kO",
-                    "53OkMD2iZg9u0Di5kaj0CI",
-                    "0uuxAXS1X7kH0WjC0nD6q9",
-                    "73BDFtqyGUgQN35Gw3jzYH",
-                    "6AdRVAebFOz9BVShFxmYzE",
-                    "7GENPjwC2JICc2oCe2N2Xm"
-                ],
-                "tracksName": [
-                    "Seize the Power",
-                    "PREDATOR",
-                    "Detonate",
-                    "Clique",
-                    "Fight For The Right",
-                    "Call Me a Saint",
-                    "By The Time You're Reading This",
-                    "Teach Me To Fight",
-                    "Greedy",
-                    "F.W.T.B. - grandson Remix"
-                ],
-                "tracksPOP": [
-                    54,
-                    51,
-                    50,
-                    50,
-                    48,
-                    46,
-                    45,
-                    45,
-                    44,
-                    42
-                ]
-            }
-        ],
-        "location": "strom_muc",
-        "name": "yonaka",
-        "tracks": [
-            "53OkMD2iZg9u0Di5kaj0CI",
-            "73BDFtqyGUgQN35Gw3jzYH",
-            "794IGyga5qnhlzOUimLOMw"
-        ],
-        "type": "konzert",
-        "url": "https://strom-muc.de/event/yonaka-2/"
-    },
-    {
-        "date": "2024-07-03T00:00:00",
-        "event": "G.Rag und die Landlergschwister",
-        "items": [
-            {
-                "id": "2eeEmPEIuXMBNJ8IZRSxG7",
-                "name": "g.rag und die landlergschwister",
-                "pop": 5,
-                "tracksID": [
-                    "37gIBYfygRKwGBLC36PK9w",
-                    "4VMtYuxDRmogF0FgQ2PuOW",
-                    "0t0pW3TaLxfUW5foFPm8Ns",
-                    "7qBvZUa1VYjlAO3cDonJUt",
-                    "3H1STQtbe3Hc7LqYKg08pn",
-                    "058UtWjOrovmG7FCRaVkYn",
-                    "0OIihVRShyTneWYisH4nmZ",
-                    "1BZIA7XMGTCQll05XIMFLY",
-                    "3XcezYnlpksSMJs70WHqza",
-                    "4TcfiBhTwUz4cZTDOCPaBx"
-                ],
-                "tracksName": [
-                    "Rambling Man - Hank Williams Remix",
-                    "Monaco Franze",
-                    "You Wanted a Hit",
-                    "Der R\u00e4uber und der Prinz",
-                    "Das Model",
-                    "Odessa",
-                    "Chambacu",
-                    "Boarischer Zwiefacher",
-                    "Honky Tonkin'",
-                    "Odessa"
-                ],
-                "tracksPOP": [
-                    9,
-                    9,
-                    5,
-                    5,
-                    4,
-                    4,
-                    4,
-                    2,
-                    2,
-                    1
-                ]
-            }
-        ],
-        "location": "Biergarten am Muffatwerk",
-        "name": "g.rag und die landlergschwister",
-        "tracks": [
-            "1BZIA7XMGTCQll05XIMFLY",
-            "37gIBYfygRKwGBLC36PK9w",
-            "4VMtYuxDRmogF0FgQ2PuOW"
-        ],
-        "type": "konzert",
-        "url": "https://www.muffatwerk.de/de/events/view/7099/g-rag-und-die-landlergschwister"
-    },
-    {
-        "date": "2024-07-09T20:00:00",
-        "event": "KRISIUN - Live 2024",
-        "items": [
-            {
-                "id": "3pzAW9xs16rX8fukH8wV6N",
-                "name": "KRISIUN",
-                "pop": 27,
-                "tracksID": [
-                    "7weCxvlfuw44C3ntdb3qGp",
-                    "7jxi4lKNR9b2rdkYgcAZvv",
-                    "2eeqs5FMSGXtYfo1H4EPrx",
-                    "6sTv0Cpc9QtTUSHI7Kj5Ay",
-                    "6fThEC9Kk1ieDgl5jTbIgL",
-                    "5IRnGVSiPlPUcXPHPt33ds",
-                    "0jtmuTWmfvZZ3PgqzpAtfP",
-                    "7y7kErXpGObNElIgZ13Aut",
-                    "4VB8QjEVpE9LeBym2yJOSg",
-                    "5Gx9DIkSrnLdmi45qJzXAj"
-                ],
-                "tracksName": [
-                    "Blood of Lions",
-                    "The Will to Potency",
-                    "Combustion Inferno",
-                    "Scars of the Hatred",
-                    "Serpent Messiah",
-                    "Descending Abomination",
-                    "Sworn Enemies",
-                    "Extincao em Massa",
-                    "The Great Execution",
-                    "Necronomical"
-                ],
-                "tracksPOP": [
-                    32,
-                    25,
-                    24,
-                    23,
-                    21,
-                    19,
-                    19,
-                    19,
-                    18,
-                    17
-                ]
-            }
-        ],
-        "location": "BACKSTAGE HALLE",
-        "name": "KRISIUN",
-        "tracks": [
-            "6sTv0Cpc9QtTUSHI7Kj5Ay",
-            "7jxi4lKNR9b2rdkYgcAZvv",
-            "7weCxvlfuw44C3ntdb3qGp"
-        ],
-        "type": "konzert",
-        "url": "https://backstage.eu/krisiun-live-2024.html"
-    },
-    {
-        "date": "2024-07-09T20:00:00",
-        "event": "THE CASUALTIES - Europa Tour 2024",
-        "items": [
-            {
-                "id": "5uMNhVG30JzeZ5xtPb1tqR",
-                "name": "THE CASUALTIES",
-                "pop": 42,
-                "tracksID": [
-                    "5gl3rFZJnNwemQFD2qkZu7",
-                    "2PLqbVr0N1QKyDAq67g43M",
-                    "4peQhkiyLf9OOq2dC2RXNf",
-                    "1XOaFDh1TNCSwtus4v0vFX",
-                    "4onKDOYooNaBgWzOuS8Cla",
-                    "4u3Qo40xY9dndqZ8xeiuSe",
-                    "4fZOZvwTtf6A2DluDuRB0T",
-                    "2ZY6epihkMGYDJMoW2rj2G",
-                    "6P7CNvyPFbuM7nmdrtWb8m",
-                    "4ZVKiUiDBTFFkH2Kp8ym2g"
-                ],
-                "tracksName": [
-                    "Unknown Soldier",
-                    "We Are All We Have",
-                    "Get off My Back",
-                    "R.A.M.O.N.E.S.",
-                    "Punk Rock Love",
-                    "Carry on the Flag",
-                    "1312",
-                    "Tomorrow Belongs to Us",
-                    "Made in N.Y.C.",
-                    "Corazones Intoxicados"
-                ],
-                "tracksPOP": [
-                    48,
-                    46,
-                    42,
-                    41,
-                    37,
-                    36,
-                    35,
-                    35,
-                    34,
-                    31
-                ]
-            }
-        ],
-        "location": "BACKSTAGE CLUB",
-        "name": "THE CASUALTIES",
-        "tracks": [
-            "2ZY6epihkMGYDJMoW2rj2G",
-            "4peQhkiyLf9OOq2dC2RXNf",
-            "5gl3rFZJnNwemQFD2qkZu7"
-        ],
-        "type": "konzert",
-        "url": "https://backstage.eu/the-casualties-europa-tour-2024.html"
-    },
-    {
-        "date": "2024-07-19T19:00:00",
-        "event": "VULVARINE - Free&Easy 2024",
-        "items": [
-            {
-                "id": "16MG8AG1y22HDmY8IoI5lY",
-                "name": "VULVARINE",
-                "pop": 6,
-                "tracksID": [
-                    "4eWoC9NIQizhVHpH3UWYQq",
-                    "21OoB0QmUQ5v2gpmgkEU4a",
-                    "5fGzkThoBGmqbIVUO43jSu",
-                    "7pjyXXw9aPs0BxUeU7g4X2",
-                    "3nuQ4oTgM7Z85rsYh8MFUD",
-                    "53p6QIpYfUSvIvpjyWHDv0",
-                    "2JtKEMOjFmvrAsHqaybNf3",
-                    "210tj3NL2mTHYgXjnvSjFt",
-                    "6tCmYPZpIPFWRtfE2aedut",
-                    "6pVv9sLd0Svshhiytw2DUU"
-                ],
-                "tracksName": [
-                    "Rock Bottom",
-                    "Good Time",
-                    "Animal",
-                    "Dangerous",
-                    "M.C.Q.",
-                    "White Pricks",
-                    "Way Out",
-                    "Streetcat",
-                    "Bad Medication",
-                    "Don\u00b4t Need Your Help"
-                ],
-                "tracksPOP": [
-                    12,
-                    8,
-                    6,
-                    6,
-                    5,
-                    4,
-                    3,
-                    3,
-                    3,
-                    3
-                ]
-            }
-        ],
-        "location": "BACKSTAGE HALLE",
-        "name": "VULVARINE",
-        "tracks": [
-            "3nuQ4oTgM7Z85rsYh8MFUD",
-            "4eWoC9NIQizhVHpH3UWYQq",
-            "53p6QIpYfUSvIvpjyWHDv0"
-        ],
-        "type": "konzert",
-        "url": "https://backstage.eu/vulvarine-free-easy-2024.html"
-    },
-    {
-        "date": "2024-07-25T20:00:00",
-        "event": "7 SECONDS - Free&Easy 2024",
-        "items": [
-            {
-                "id": "1ByqGbfU0crCY2zEr0U8Sv",
-                "name": "7 SECONDS",
-                "pop": 38,
-                "tracksID": [
-                    "161AGnyxELSCSLQj510Xnp",
-                    "0e6NdBMP1cCCKeV23A1DtW",
-                    "3XhdiZ7lSt9F91jIRoVjyH",
-                    "4fDpak2dBr6d3lJxJPqj3o",
-                    "1Hezl9sI2dFA0G8OYla6hT",
-                    "3UxSqpgQDYmiXnZkBcx4YB",
-                    "0kqwGIJsjKQGIvybnbdtY5",
-                    "2iCaxQleiUAsCsGMW5o0Fd",
-                    "7lW0ssw3va4AcjVygV1OCL",
-                    "00Vly5Pr7X1YGgFJBE6cxA"
-                ],
-                "tracksName": [
-                    "Sooner or Later",
-                    "This Is Temporary",
-                    "All Came Undone",
-                    "Meant to Be My Own",
-                    "Big Hardcore Mystery",
-                    "Sour Grapes",
-                    "My Band, Our Crew",
-                    "Best Friend",
-                    "Still On It",
-                    "Young 'Til I Die"
-                ],
-                "tracksPOP": [
-                    43,
-                    41,
-                    38,
-                    38,
-                    38,
-                    37,
-                    36,
-                    34,
-                    33,
-                    31
-                ]
-            }
-        ],
-        "location": "BACKSTAGE HALLE",
-        "name": "7 SECONDS",
-        "tracks": [
-            "161AGnyxELSCSLQj510Xnp",
-            "2iCaxQleiUAsCsGMW5o0Fd",
-            "3XhdiZ7lSt9F91jIRoVjyH"
-        ],
-        "type": "konzert",
-        "url": "https://backstage.eu/7-seconds-free-easy-2024.html"
-    },
-    {
-        "date": "2024-08-06T18:30:00",
-        "event": "TurnTableTennis",
-        "items": [
-            {
-                "id": 0,
-                "name": "TurnTableTennis",
-                "pop": 0,
-                "tracksID": [],
-                "tracksName": [],
-                "tracksPOP": []
-            }
-        ],
-        "location": "import-export",
-        "tracks": [],
-        "type": "auflegen, tischtennis",
-        "url": "https://import-export.cc/event/turntabletennis-38/"
-    },
-    {
-        "date": "2024-08-14T00:00:00",
-        "event": "upsahl",
-        "items": [
-            {
-                "id": "1294QqYm1VuxxjRiL9M0h9",
-                "name": "upsahl",
-                "pop": 56,
-                "tracksID": [
-                    "5srKMwXoeyrRnyTnNbpgIW",
-                    "06ioYJ99HHjzRk8HrGfkKS",
-                    "1hf9Wu2l0XIgAcTZLSAUJe",
-                    "6lkIxqlCsnY3EW6ZobZbXi",
-                    "1nPd60em5Qwp0NPykFz5Xj",
-                    "6zgxB5Rmku4Ez6J9a0TVUo",
-                    "2XTQUwGdzWXdTjM7z2UJXr",
-                    "5LtrJHnBO57EoVHsLR6xR8",
-                    "5LJsMlAwHdRzyq6Z3lLCat",
-                    "1IfrYTBtU92JgiDSRPQH5M"
-                ],
-                "tracksName": [
-                    "People I Don't Like",
-                    "Drugs",
-                    "Shut Up",
-                    "Drugs (feat. Two Feet)",
-                    "Happy Endings (feat. iann dior and UPSAHL)",
-                    "12345SEX",
-                    "Thrill Again",
-                    "Palm Reader",
-                    "GOOD GIRL ERA (SIDE A)",
-                    "MoneyOnMyMind (feat. Absofacto)"
-                ],
-                "tracksPOP": [
-                    65,
-                    60,
-                    57,
-                    53,
-                    50,
-                    49,
-                    41,
-                    45,
-                    47,
-                    47
-                ]
-            }
-        ],
-        "location": "strom_muc",
-        "name": "upsahl",
-        "tracks": [
-            "1nPd60em5Qwp0NPykFz5Xj",
-            "2XTQUwGdzWXdTjM7z2UJXr",
-            "5srKMwXoeyrRnyTnNbpgIW"
-        ],
-        "type": "konzert",
-        "url": "https://strom-muc.de/event/upsahl/"
-    },
-    {
-        "date": "2024-09-04T20:00:00",
-        "event": "BOKASSA - All out of Dreams - Releasetour",
-        "items": [
-            {
-                "id": "3QgBKy7myJIAIMe1A1y7uq",
-                "name": "BOKASSA",
-                "pop": 29,
-                "tracksID": [
-                    "108azuTlbkrLiuaRMQu2nF",
-                    "7D6jBf2oV33ek48igZz3Gv",
-                    "1pmYUaQRLm9wyFL4DMl9xc",
-                    "28XIV0dbeuFzxzPgyWydqo",
-                    "4Y8GGBXb01mTR8lVAVGawK",
-                    "1T3p6BIgRIPIz2Lfysth1a",
-                    "23LIbeT9Au8HZpLVI9eAa5",
-                    "62S58VUYDDRX7pWwEJyHAs",
-                    "14hqwpZHZCyB8wMfjbhxA9",
-                    "5pTssiM1UQBOLG3aNcCfLp"
-                ],
-                "tracksName": [
-                    "Vultures",
-                    "Retaliation",
-                    "The Ending Starts Today",
-                    "Garden of Heathen (feat. Lou Koller)",
-                    "Let's Storm The Capitol",
-                    "Mouthbreathers Inc.",
-                    "Bradford Death Squadron (feat. Aaron Beam)",
-                    "All Out Of Dreams",
-                    "Brologue",
-                    "Last Night (Was a Real Massacre)"
-                ],
-                "tracksPOP": [
-                    32,
-                    30,
-                    27,
-                    27,
-                    23,
-                    26,
-                    26,
-                    24,
-                    25,
-                    25
-                ]
-            }
-        ],
-        "location": "BACKSTAGE CLUB",
-        "name": "BOKASSA",
-        "tracks": [
-            "108azuTlbkrLiuaRMQu2nF",
-            "23LIbeT9Au8HZpLVI9eAa5",
-            "7D6jBf2oV33ek48igZz3Gv"
-        ],
-        "type": "konzert",
-        "url": "https://backstage.eu/bokassa-all-out-of-dreams-releasetour.html"
-    },
-    {
-        "date": "2024-09-17T20:00:00",
-        "event": "K-FLY - \u201eMusik ist Medizin\u201c Tour 2024",
-        "items": [
-            {
-                "id": "0vLsqW05dyLvjuKKftAEGA",
-                "name": "K",
-                "pop": 72,
-                "tracksID": [
-                    "1wJxSYpxvufStONDfPfEMp",
-                    "0DQgFutYnM7A013OQF7aCd",
-                    "4Of4XmUFg8gMJSnIsUZFvD",
-                    "2cetly1jRH6uwLyOxMZVpH",
-                    "7rIiGUi1gkV0DEFBqYrgEt",
-                    "0uFJLV0o36JWnu9VnRbUMr",
-                    "6DfLRAKfG6PdjnIz5YEH0x",
-                    "6V5bayePCLAfdNrxFep9CC",
-                    "2JVshH0DZYOhY30rc6Y2gz",
-                    "0uUljgHbKtSBhxZIUoKCvX"
-                ],
-                "tracksName": [
-                    "001 - Panik im Paradies - Teil 01",
-                    "Die drei ??? Kids Titelsong",
-                    "003 - Invasion der Fliegen - Teil 40",
-                    "94 - Falsche Vampire - Teil 16",
-                    "054 - Zombie-Alarm - Teil 40",
-                    "076 - Blinde Passagiere - Teil 15",
-                    "94 - Falsche Vampire - Teil 03",
-                    "081 - Turbo-Rennen - Titelsong",
-                    "96 - Der Schrottk\u00f6nig - Teil 01",
-                    "96 - Der Schrottk\u00f6nig - Teil 21"
-                ],
-                "tracksPOP": [
-                    56,
-                    50,
-                    53,
-                    55,
-                    53,
-                    53,
-                    52,
-                    49,
-                    50,
-                    50
-                ]
-            }
-        ],
-        "location": "BACKSTAGE CLUB",
-        "name": "K",
-        "tracks": [
-            "1wJxSYpxvufStONDfPfEMp",
-            "6DfLRAKfG6PdjnIz5YEH0x",
-            "7rIiGUi1gkV0DEFBqYrgEt"
-        ],
-        "type": "konzert",
-        "url": "https://backstage.eu/k-fly-musik-ist-medizin-tour-2024.html"
-    },
-    {
-        "date": "2024-09-25T19:30:00",
-        "event": "LX & MAXWELL - OBSTSTAND III TOUR |\u00a0verlegt auf den 25.09.24",
-        "items": [
-            {
-                "id": 0,
-                "name": "LX & MAXWELL",
-                "pop": 0,
-                "tracksID": [],
-                "tracksName": [],
-                "tracksPOP": []
-            },
-            {
-                "id": "10XY9PZCJKzUFzZOdtlQLU",
-                "name": "LX",
-                "pop": 60,
-                "tracksID": [
-                    "0MT2Y0Mvbv5detaaHMM0SK",
-                    "0kLA41xkWzzYzMIEGFuDkP",
-                    "4xN9cgMVhYyhnugUFZdhcZ",
-                    "2RBGVpS1TFGte80yy3rTL7",
-                    "3KbCjPkewCmJt09FYtyVK5",
-                    "3lHuDW8SiPtnIMmaTiDFVe",
-                    "2n9Svm9Y0zSmbzo08U3NCy",
-                    "0B3oydD4ATrmoBk1QMzNt6",
-                    "62jXPzFQsrrZLXbf5GZi8k",
-                    "5CJqhXiUiK2rVowtbeLjyd"
-                ],
-                "tracksName": [
-                    "Motorsport",
-                    "HaifischNikez Allstars",
-                    "Vielen Dank",
-                    "Optimal",
-                    "10 Jahre",
-                    "187 Gang",
-                    "SLANG MANG",
-                    "Verpennt",
-                    "Compton",
-                    "Bob Marley"
-                ],
-                "tracksPOP": [
-                    66,
-                    55,
-                    54,
-                    53,
-                    52,
-                    51,
-                    50,
-                    43,
-                    48,
-                    48
-                ]
-            },
-            {
-                "id": "0b62itBWBdLgiecXjXCqKC",
-                "name": "MAXWELL",
-                "pop": 61,
-                "tracksID": [
-                    "6hjck7ERXicpsW51UkdHCA",
-                    "0fRgkMkq6XVYbGC8HIVvgd",
-                    "0kLA41xkWzzYzMIEGFuDkP",
-                    "7qwWwsa6otLM0UOEamls4s",
-                    "4xN9cgMVhYyhnugUFZdhcZ",
-                    "2IvrIIvwA3zEPXmJitBlJD",
-                    "3KbCjPkewCmJt09FYtyVK5",
-                    "14OLkF8PnpsE7z9zt7FMu1",
-                    "4TVWrmLEcYcbFLvPGOSWuZ",
-                    "3lHuDW8SiPtnIMmaTiDFVe"
-                ],
-                "tracksName": [
-                    "Safari",
-                    "BAR & CLUB",
-                    "HaifischNikez Allstars",
-                    "Skifahren (feat. Joshi Mizu)",
-                    "Vielen Dank",
-                    "Der Berg ruft",
-                    "10 Jahre",
-                    "Spielplatz",
-                    "Prollz",
-                    "187 Gang"
-                ],
-                "tracksPOP": [
-                    64,
-                    57,
-                    55,
-                    51,
-                    54,
-                    53,
-                    52,
-                    51,
-                    51,
-                    51
-                ]
-            }
-        ],
-        "location": "BACKSTAGE WERK",
-        "name": "MAXWELL",
-        "tracks": [
-            "0MT2Y0Mvbv5detaaHMM0SK",
-            "0kLA41xkWzzYzMIEGFuDkP",
-            "2RBGVpS1TFGte80yy3rTL7"
-        ],
-        "type": "konzert",
-        "url": "https://backstage.eu/lx-maxwell-obststand-iii-tour.html"
-    },
-    {
-        "date": "2024-10-01T20:00:00",
-        "event": "3LNA - Herz Bricht Tour",
-        "items": [
-            {
-                "id": "1emgDf5qBtbL909f2Pt7uP",
-                "name": "3LNA",
-                "pop": 34,
-                "tracksID": [
-                    "70W4ZdVWdPfDvOwAy9s1kv",
-                    "1aPd3DwTf55asZCMSuaYGb",
-                    "63955v4FepifI0kIwwd5Qc",
-                    "0J7XFx01lrlEjrvXWDPz2x",
-                    "2QO2MKTzDhoatw6xGlX9x2",
-                    "4dLLj2iINGVZrZ6B7SoOS8",
-                    "4lBFo0E6TIoQAoSVSALWYb",
-                    "4wKmQJ2RO00P8WdQJmqG6a",
-                    "7lyP4Wo5gKlrscCwHp5CEL",
-                    "42MrEB5o61blVebFOBWklK"
-                ],
-                "tracksName": [
-                    "DJ in Berlin (P.Vanillaboy Edit)",
-                    "Rosa Rot",
-                    "U8 Hermannplatz",
-                    "kann nicht schlafen (ich lieg wach)",
-                    "du denkst an mich",
-                    "NIEGEHABT",
-                    "in meinem kopf",
-                    "Butterflies",
-                    "wiedersehen",
-                    "buona notte"
-                ],
-                "tracksPOP": [
-                    39,
-                    39,
-                    35,
-                    34,
-                    33,
-                    26,
-                    24,
-                    25,
-                    26,
-                    25
-                ]
-            }
-        ],
-        "location": "BACKSTAGE CLUB",
-        "name": "3LNA",
-        "tracks": [
-            "1aPd3DwTf55asZCMSuaYGb",
-            "63955v4FepifI0kIwwd5Qc"
-        ],
-        "type": "konzert",
-        "url": "https://backstage.eu/3lna-herz-bricht-tour.html"
-    },
-    {
-        "date": "2024-10-06T00:00:00",
-        "event": "Stanovsky",
-        "items": [
-            {
-                "id": "4GR8jECs0wPPXOaF1sfYmP",
-                "name": "stanovsky",
-                "pop": 28,
-                "tracksID": [
-                    "19XTfACt5ydlm3pF2g0F7h",
-                    "0kbmZL7c7RR1fwB5H9SlCH",
-                    "5GPhyhlQfvokpeHckFYtQi",
-                    "2EfYTU8IJDpficUcIdOqyu",
-                    "29DLe8ECHHEPMnH4HCHbGS",
-                    "6toQ6T0tXZm6XZy1dKHrEF",
-                    "6Iu3BXEoEzinGG6ahxGtEv",
-                    "4Jgzikvx7b345W7EKq5lTP",
-                    "5NJQfROW8YQIRGC8LDt1xx",
-                    "5TJkUr03vTnhMiAvo81uQ8"
-                ],
-                "tracksName": [
-                    "Leergetanzt",
-                    "Arcachon",
-                    "Optimist",
-                    "Trockener Tabak",
-                    "Zen Mode",
-                    "Lungenfl\u00fcgel",
-                    "Boombox",
-                    "Plattenbau",
-                    "D\u00fcnnes Eis",
-                    "Schwerelos"
-                ],
-                "tracksPOP": [
-                    39,
-                    33,
-                    29,
-                    30,
-                    27,
-                    25,
-                    22,
-                    22,
-                    19,
-                    16
-                ]
-            }
-        ],
-        "location": "Milla",
-        "name": "stanovsky",
-        "tracks": [
-            "19XTfACt5ydlm3pF2g0F7h",
-            "4Jgzikvx7b345W7EKq5lTP",
-            "6Iu3BXEoEzinGG6ahxGtEv"
-        ],
-        "type": "konzert",
-        "url": "https://www.muffatwerk.de/de/events/view/7084/stanovsky"
-    },
-    {
-        "date": "2024-10-20T00:00:00",
-        "event": "jordan prince",
-        "items": [
-            {
-                "id": "0Oq9REYtjmphBb0rv4JbyH",
-                "name": "jordan prince",
-                "pop": 11,
-                "tracksID": [
-                    "4UmrXqqg37Z9t2ViIjs2dI",
-                    "1rfvLC8bjvX49VxGnBEXC0",
-                    "4HKwPlqWuuxMaYHhHgAJ0x",
-                    "1PzWg2ndsFZzxDtzSVFxbK",
-                    "4ytzZjGYXthyJEm8wL8H9R",
-                    "610PD28zoQKQDoXB35jslE",
-                    "2qGGfIayTGGFTuFyhu1ASb",
-                    "6OsLquZ15I2OBJIHpYc5Dw",
-                    "3ZTtVZnrmsjsjph7OoTYDh",
-                    "7ESHnzbT9gkBKGf5yYCmwh"
-                ],
-                "tracksName": [
-                    "Smilin' (Back at Me)",
-                    "Most Famous Surprise",
-                    "Fresh Ground (feat. Tim Hecking)",
-                    "Fresh Ground",
-                    "James",
-                    "Only Room for One (feat. Tim Hecking)",
-                    "I Wish I Hadn't Got Stoned",
-                    "The Crooked Rail",
-                    "Count on Me",
-                    "Legendary Love (feat. Tim Hecking)"
-                ],
-                "tracksPOP": [
-                    24,
-                    14,
-                    11,
-                    8,
-                    7,
-                    6,
-                    1,
-                    1,
-                    2,
-                    2
-                ]
-            }
-        ],
-        "location": "strom_muc",
-        "name": "jordan prince",
-        "tracks": [
-            "1rfvLC8bjvX49VxGnBEXC0",
-            "2qGGfIayTGGFTuFyhu1ASb",
-            "4UmrXqqg37Z9t2ViIjs2dI"
-        ],
-        "type": "konzert",
-        "url": "https://strom-muc.de/event/jordan-prince/"
-    },
-    {
-        "date": "2024-11-04T20:00:00",
-        "event": "",
-        "items": [
-            {
-                "id": "15QhuBSLfDNECfF8wvxj0M",
-                "name": "THE MYSTERINES",
-                "pop": 39,
-                "tracksID": [
-                    "6xfeVHIcavY2ZwwASl00j4",
-                    "2wb55krslcGE17P1BHeqH1",
-                    "1W3fMkViHndp2kv7PQNfAQ",
-                    "5yOnx6qeKUtMie3WlfUkAt",
-                    "3pNxB32GZ03zJQ3fmUqsj5",
-                    "60LKpOJR8e1rentSnw7hzx",
-                    "36NeDg7YTvvkceGZtq9eLl",
-                    "3tDcg4ZD9QVjPOgv7NROui",
-                    "3zQfXRaZkNQRXT9D9fANOh",
-                    "4nF3iFdYCTcuj3bNeHBsze"
-                ],
-                "tracksName": [
-                    "Sink Ya Teeth",
-                    "Stray",
-                    "Hung Up",
-                    "Take Control",
-                    "Life's a Bitch (But I Like it So Much)",
-                    "Begin Again",
-                    "Dangerous",
-                    "In My Head",
-                    "Who's Ur Girl?",
-                    "All These Things"
-                ],
-                "tracksPOP": [
-                    45,
-                    45,
-                    42,
-                    41,
-                    39,
-                    34,
-                    33,
-                    31,
-                    33,
-                    32
-                ]
-            }
-        ],
-        "location": "feierwerk Kranhalle",
-        "name": "THE MYSTERINES",
-        "tracks": [
-            "2wb55krslcGE17P1BHeqH1",
-            "3pNxB32GZ03zJQ3fmUqsj5",
-            "5yOnx6qeKUtMie3WlfUkAt"
-        ],
-        "type": "konzert",
-        "url": "https://www.feierwerk.de/konzert-kulturprogramm/detail/2024-11-04-"
-    },
-    {
-        "date": "2024-11-05T20:00:00",
-        "event": "Scala & Kolacny Brothers - Gloaming",
-        "items": [
-            {
-                "id": "5cXCuJjbyxee1uCILXatYZ",
-                "name": "Scala & Kolacny Brothers",
-                "pop": 42,
-                "tracksID": [
-                    "5sT9L8WpqE9Ux1LpNyHGWi",
-                    "5lYO7bXfHqZgUmOH7kJYHz",
-                    "1dWmSN2fUoOxFOnXtWcDpo",
-                    "5WAdxow8ofiTbUyt05Wiil",
-                    "2FgkPIkOZcUIJ3kqWZXj4E",
-                    "3UMfwUYJjjIBtlqnAKwWmP",
-                    "4rhc6AssN7qbQsf4vu5pNw",
-                    "0vXRGJ1Z2G1UO6b3Th5cun",
-                    "5oGPS51DFM0LcYUgGpMWZS",
-                    "73fhf1cmFFWx3lTWCK21Hz"
-                ],
-                "tracksName": [
-                    "Creep",
-                    "Nothing Else Matters",
-                    "J'ai demand\u00e9 \u00e0 la lune",
-                    "I Touch Myself",
-                    "Hungriges Herz",
-                    "With or Without You",
-                    "Life on Mars",
-                    "Le vent nous portera",
-                    "Everything in Its Right Place",
-                    "The One I Love"
-                ],
-                "tracksPOP": [
-                    45,
-                    44,
-                    40,
-                    39,
-                    37,
-                    36,
-                    35,
-                    33,
-                    33,
-                    32
-                ]
-            },
-            {
-                "id": "5cXCuJjbyxee1uCILXatYZ",
-                "name": "Scala",
-                "pop": 42,
-                "tracksID": [
-                    "5sT9L8WpqE9Ux1LpNyHGWi",
-                    "5lYO7bXfHqZgUmOH7kJYHz",
-                    "1dWmSN2fUoOxFOnXtWcDpo",
-                    "5WAdxow8ofiTbUyt05Wiil",
-                    "2FgkPIkOZcUIJ3kqWZXj4E",
-                    "3UMfwUYJjjIBtlqnAKwWmP",
-                    "4rhc6AssN7qbQsf4vu5pNw",
-                    "0vXRGJ1Z2G1UO6b3Th5cun",
-                    "5oGPS51DFM0LcYUgGpMWZS",
-                    "73fhf1cmFFWx3lTWCK21Hz"
-                ],
-                "tracksName": [
-                    "Creep",
-                    "Nothing Else Matters",
-                    "J'ai demand\u00e9 \u00e0 la lune",
-                    "I Touch Myself",
-                    "Hungriges Herz",
-                    "With or Without You",
-                    "Life on Mars",
-                    "Le vent nous portera",
-                    "Everything in Its Right Place",
-                    "The One I Love"
-                ],
-                "tracksPOP": [
-                    45,
-                    44,
-                    40,
-                    39,
-                    37,
-                    36,
-                    35,
-                    33,
-                    33,
-                    32
-                ]
-            },
-            {
-                "id": "5cXCuJjbyxee1uCILXatYZ",
-                "name": "Kolacny Brothers",
-                "pop": 42,
-                "tracksID": [
-                    "5sT9L8WpqE9Ux1LpNyHGWi",
-                    "5lYO7bXfHqZgUmOH7kJYHz",
-                    "1dWmSN2fUoOxFOnXtWcDpo",
-                    "5WAdxow8ofiTbUyt05Wiil",
-                    "2FgkPIkOZcUIJ3kqWZXj4E",
-                    "3UMfwUYJjjIBtlqnAKwWmP",
-                    "4rhc6AssN7qbQsf4vu5pNw",
-                    "0vXRGJ1Z2G1UO6b3Th5cun",
-                    "5oGPS51DFM0LcYUgGpMWZS",
-                    "73fhf1cmFFWx3lTWCK21Hz"
-                ],
-                "tracksName": [
-                    "Creep",
-                    "Nothing Else Matters",
-                    "J'ai demand\u00e9 \u00e0 la lune",
-                    "I Touch Myself",
-                    "Hungriges Herz",
-                    "With or Without You",
-                    "Life on Mars",
-                    "Le vent nous portera",
-                    "Everything in Its Right Place",
-                    "The One I Love"
-                ],
-                "tracksPOP": [
-                    45,
-                    44,
-                    40,
-                    39,
-                    37,
-                    36,
-                    35,
-                    33,
-                    33,
-                    32
-                ]
-            }
-        ],
-        "location": "BACKSTAGE WERK",
-        "name": "Kolacny Brothers",
-        "tracks": [
-            "5lYO7bXfHqZgUmOH7kJYHz",
-            "5sT9L8WpqE9Ux1LpNyHGWi",
-            "73fhf1cmFFWx3lTWCK21Hz"
-        ],
-        "type": "konzert",
-        "url": "https://backstage.eu/scala-kolacny-brothers-gloaming.html"
-    },
-    {
-        "date": "2024-11-11T19:30:00",
-        "event": "Salt Tree",
-        "items": [
-            {
-                "id": "4xNez1q78QXUBq6zvKuNrU",
-                "name": "salt tree",
-                "pop": 50,
-                "tracksID": [
-                    "3tY7BVvQ8MVQgF6wLHZEni",
-                    "5QwXfiLqoj8AJzwYRtNx5C",
-                    "4ccYow5an64MRTuiSnSh2b",
-                    "7FouFHy0cvr4T5v2jmqVtU",
-                    "681SXNq6WwBPFtC95pdVcZ",
-                    "6u9yalfXvX7lDkWpMYZ44J",
-                    "1mqIXvshRM1IGh6tlzzjDm",
-                    "5JDLi91s9VNDHe8rkvTOdh",
-                    "1x8yFhcdS5NgTceVdjT24m",
-                    "7IP1ll1n0NxkiDLhMA98R4"
-                ],
-                "tracksName": [
-                    "I'm On Fire",
-                    "Out of the Water",
-                    "Sparkly Socks",
-                    "She's The One",
-                    "Cold Ways",
-                    "Rising Again",
-                    "Follow Me in the Ocean",
-                    "Coming Home to You",
-                    "Warm Ocean",
-                    "Let My Guard Down"
-                ],
-                "tracksPOP": [
-                    61,
-                    57,
-                    54,
-                    48,
-                    46,
-                    45,
-                    42,
-                    41,
-                    40,
-                    40
-                ]
-            }
-        ],
-        "location": "milla_club",
-        "name": "salt tree",
-        "tracks": [
-            "1mqIXvshRM1IGh6tlzzjDm",
-            "3tY7BVvQ8MVQgF6wLHZEni",
-            "4ccYow5an64MRTuiSnSh2b"
-        ],
-        "type": "konzert",
-        "url": "https://milla-club.de/salt-tree/"
-    },
-    {
-        "date": "2024-11-11T20:00:00",
-        "event": "NIZI19 - AKH & KRACH TOUR 2024",
-        "items": [
-            {
-                "id": "2IVvZIe3P9BMuCI6h48Bjg",
-                "name": "NIZI19",
-                "pop": 59,
-                "tracksID": [
-                    "3R9tMNW32FRhXSUZOQT0dd",
-                    "1DIqiqN9afvCS2IirZtJ5u",
-                    "14UUBO41DkFSEA4NoRpFTq",
-                    "4OvjDisi6wFGWLmjtEFDir",
-                    "3g80ePm2llwjSscq5URune",
-                    "7swOeXVc7QXlE8liDv87Va",
-                    "6VG2wPOp4ehwdswytpnMdw",
-                    "1Jygol1XrhFzX9XJJY2IcA",
-                    "5p5sP9mSrjHGvBu575JYLD",
-                    "0EsbOkROZEauEJL3En3y25"
-                ],
-                "tracksName": [
-                    "dass du wei\u00dft",
-                    "Disney",
-                    "6 Nullen (feat. Omar101)",
-                    "Stra\u00dfe studiert",
-                    "Niemand",
-                    "Ah Ah",
-                    "\u00d6sterreich",
-                    "auf alles!",
-                    "Y-3",
-                    "2wasser2sprite (feat. Pashanim)"
-                ],
-                "tracksPOP": [
-                    46,
-                    56,
-                    56,
-                    55,
-                    55,
-                    55,
-                    54,
-                    54,
-                    52,
-                    51
-                ]
-            }
-        ],
-        "location": "BACKSTAGE CLUB",
-        "name": "NIZI19",
-        "tracks": [
-            "14UUBO41DkFSEA4NoRpFTq",
-            "1DIqiqN9afvCS2IirZtJ5u",
-            "5p5sP9mSrjHGvBu575JYLD"
-        ],
-        "type": "konzert",
-        "url": "https://backstage.eu/nizi19-akh-krach-tour-2024.html"
-    },
-    {
-        "date": "2024-11-15T20:00:00",
-        "event": "SMASH INTO PIECES - MANIFEST EUROPE TOUR 2024",
-        "items": [
-            {
-                "id": "2vhrwzjf9H3icunkVFi9tq",
-                "name": "SMASH INTO PIECES",
-                "pop": 60,
-                "tracksID": [
-                    "4P95NVkHsLm95s8Pb9buPs",
-                    "00FghqGHLb7jBSBvIT6W9O",
-                    "5D29PI3g8UmTHLnjX7e3CQ",
-                    "4AdrWhRcSBYmZlF9X8yeCb",
-                    "0WDlEgbYPtcxUn4CKoI0uU",
-                    "3wKrTUsTyHA0BPzoyOe1kO",
-                    "2tEB9GEBU7IbpiHAdyivt2",
-                    "5IppCMMctxTtqPTeDlvyKs",
-                    "4cDHZygn3hStTmnngmNsWo",
-                    "7dthOj5YOnhm7f5ek9QIiG"
-                ],
-                "tracksName": [
-                    "Heroes Are Calling",
-                    "Six Feet Under",
-                    "All Eyes on You",
-                    "Trigger",
-                    "Afterglow",
-                    "Flame",
-                    "Venom",
-                    "Boomerang",
-                    "Let Me Be Your Superhero",
-                    "Flow"
-                ],
-                "tracksPOP": [
-                    56,
-                    53,
-                    58,
-                    51,
-                    55,
-                    53,
-                    50,
-                    53,
-                    50,
-                    47
-                ]
-            }
-        ],
-        "location": "Muffatwerk",
-        "name": "SMASH INTO PIECES",
-        "tracks": [
-            "00FghqGHLb7jBSBvIT6W9O",
-            "5D29PI3g8UmTHLnjX7e3CQ",
-            "5IppCMMctxTtqPTeDlvyKs"
-        ],
-        "type": "konzert",
-        "url": "https://backstage.eu/smash-into-pieces-manifest-europe-tour-2024.html"
-    },
-    {
-        "date": "2024-11-16T00:00:00",
-        "event": "\u00e4tna",
-        "items": [
-            {
-                "id": "4ORnI4BzjKFbUply6fRvkX",
-                "name": "\u00e4tna",
-                "pop": 40,
-                "tracksID": [
-                    "2Sxti9gKyS8zxdI0yV3wvC",
-                    "1otEy9kQnCyhQa1qvl7KoM",
-                    "2z0IvBi4B2HOV1PEhiiowj",
-                    "6mAJTxk3J3ifwnCKKjKBMK",
-                    "3CuHNwe5re2CcjlmX6MmN1",
-                    "5MRZtv3Y05zBNbsnoaAi1f",
-                    "2eX6o1ewHlbOTbmVjO85or",
-                    "64tGc4FJt1AumDWwYjhVNA",
-                    "31dVOOab6MB4rCoYQzKcLA",
-                    "4ZhRddutIAnleTnvqir5LM"
-                ],
-                "tracksName": [
-                    "Tuk Tuk (feat. \u00c4TNA)",
-                    "Come To Me",
-                    "Come To Me",
-                    "Hiatus",
-                    "Lucky Dancer",
-                    "Flow - orbit Remix",
-                    "Remission",
-                    "Try",
-                    "Made By Desire",
-                    "Alive"
-                ],
-                "tracksPOP": [
-                    27,
-                    45,
-                    39,
-                    38,
-                    36,
-                    35,
-                    34,
-                    28,
-                    27,
-                    28
-                ]
-            }
-        ],
-        "location": "strom_muc",
-        "name": "\u00e4tna",
-        "tracks": [
-            "1otEy9kQnCyhQa1qvl7KoM",
-            "2eX6o1ewHlbOTbmVjO85or",
-            "4ZhRddutIAnleTnvqir5LM"
-        ],
-        "type": "konzert",
-        "url": "https://strom-muc.de/event/aetna/"
-    },
-    {
-        "date": "2024-11-16T18:20:00",
-        "event": "SEPULTURA - 40 YEARS FAREWELL TOUR \"CELEBRATING LIFE THROUGH DEATH\"",
-        "items": [
-            {
-                "id": "6JW8wliOEwaDZ231ZY7cf4",
-                "name": "SEPULTURA",
-                "pop": 59,
-                "tracksID": [
-                    "6ursmCnbc9oDRGa2yHKkoZ",
-                    "0QRxtcxL31dRAeiUUuENPu",
-                    "2OoS1aZFAFscH1cUiKlazH",
-                    "3Tg8JctqoeIwZ3Rue8BjaI",
-                    "1erRDf98WX0VllciGPYO1H",
-                    "1k5Jr3Ir3tXJLrI5ZsJ0fo",
-                    "3erQAddOalef7tmVpAZ3BV",
-                    "5RKNHGP5Nv526dJ5LmgcjX",
-                    "3orEDNYiGeafDlFNSAZ2Lw",
-                    "4P3pRa8uFRJo4Vo8DSwDvB"
-                ],
-                "tracksName": [
-                    "Roots Bloody Roots",
-                    "Territory",
-                    "Refuse / Resist",
-                    "Ratamahatta",
-                    "Arise",
-                    "Attitude",
-                    "Dead Embryonic Cells",
-                    "Orgasmatron",
-                    "Inner Self",
-                    "Just One Fix"
-                ],
-                "tracksPOP": [
-                    65,
-                    58,
-                    57,
-                    57,
-                    55,
-                    52,
-                    51,
-                    50,
-                    50,
-                    46
-                ]
-            }
-        ],
-        "location": "Zenith",
-        "name": "SEPULTURA",
-        "tracks": [
-            "1erRDf98WX0VllciGPYO1H",
-            "1k5Jr3Ir3tXJLrI5ZsJ0fo",
-            "6ursmCnbc9oDRGa2yHKkoZ"
-        ],
-        "type": "konzert",
-        "url": "https://backstage.eu/sepultura-40-years.html"
-    },
-    {
-        "date": "2024-11-21T00:00:00",
-        "event": "leap",
-        "items": [
-            {
-                "id": "6daNUvi9Bp2w8C1HoZBVIR",
-                "name": "leap",
-                "pop": 46,
-                "tracksID": [
-                    "4fKbDmsSwA1jYv2yv9ma05",
-                    "5ZeYOV8DRW4oZKU7QTPjbw",
-                    "6ViLe6lwtI6DR4YbVhAgXG",
-                    "1JyoaA4nKi5tr9edkPnZoU",
-                    "2VoB70Ax95wi1UZosTnIcE",
-                    "4QAgGxYFhbaPiHwTSKlP0s",
-                    "0zRauPREmZ4T3Sd1ufUvQt",
-                    "2wvhy8OLnkBfThXvDwrAlj",
-                    "3Lt95kIK5vGLAk353DkWP5",
-                    "7rwl9yyKS49CKRZgjCTcUc"
-                ],
-                "tracksName": [
-                    "here now",
-                    "our love in june",
-                    "frost",
-                    "memories together",
-                    "guided by light",
-                    "stay",
-                    "if i tell you, it might hurt",
-                    "maps to nowhere",
-                    "midnight blue",
-                    "trembling"
-                ],
-                "tracksPOP": [
-                    52,
-                    49,
-                    45,
-                    44,
-                    43,
-                    31,
-                    41,
-                    39,
-                    30,
-                    38
-                ]
-            }
-        ],
-        "location": "strom_muc",
-        "name": "leap",
-        "tracks": [
-            "2VoB70Ax95wi1UZosTnIcE",
-            "4QAgGxYFhbaPiHwTSKlP0s",
-            "4fKbDmsSwA1jYv2yv9ma05"
-        ],
-        "type": "konzert",
-        "url": "https://strom-muc.de/event/leap/"
-    },
-    {
-        "date": "2024-11-26T20:00:00",
-        "event": "THE CHATS - LIVE 2024",
-        "items": [
-            {
-                "id": "1aQ7P3HtKOQFW16ebjiks1",
-                "name": "THE CHATS",
-                "pop": 49,
-                "tracksID": [
-                    "5nw2rQXAjfpZNaMzAJ8qTX",
-                    "2mTppXqXhmlp08A8fwNSWm",
-                    "6Rz6yXr3RWpYdGst26tSYF",
-                    "3bg0C4y3BvpaB0TPj5sQlf",
-                    "4NyQwUbqvKp9RQAdhqAHX0",
-                    "5RsGSgBAkCQzTChScLpcux",
-                    "5b10YgbraRyefVi5DcvacM",
-                    "5GJhtKP7EgUVhDjrHGbF4P",
-                    "01E4LxSBkicxbOlPQKu98Z",
-                    "7quz7tumpgpHaywZaAgUcH"
-                ],
-                "tracksName": [
-                    "Smoko",
-                    "6L GTR",
-                    "Pub Feed",
-                    "Bus Money",
-                    "Drunk n Disorderly",
-                    "Struck By Lightning",
-                    "The Price Of Smokes",
-                    "Identity Theft",
-                    "Stinker",
-                    "AC/DC CD"
-                ],
-                "tracksPOP": [
-                    55,
-                    52,
-                    49,
-                    48,
-                    48,
-                    46,
-                    44,
-                    42,
-                    41,
-                    41
-                ]
-            }
-        ],
-        "location": "BACKSTAGE WERK",
-        "name": "THE CHATS",
-        "tracks": [
-            "2mTppXqXhmlp08A8fwNSWm",
-            "5nw2rQXAjfpZNaMzAJ8qTX",
-            "7quz7tumpgpHaywZaAgUcH"
-        ],
-        "type": "konzert",
-        "url": "https://backstage.eu/the-chats-live-2024.html"
-    },
-    {
-        "date": "2024-11-28T00:00:00",
-        "event": "Das VPT: John",
-        "items": [
-            {
-                "id": 0,
-                "name": "das vpt: john",
-                "pop": 0,
-                "tracksID": [],
-                "tracksName": [],
-                "tracksPOP": []
-            }
-        ],
-        "location": "Muffathalle",
-        "tracks": [],
-        "type": "theater",
-        "url": "https://www.muffatwerk.de/de/events/view/6830/das-vpt-john"
-    },
-    {
-        "date": "2025-01-23T20:00:00",
-        "event": "DIE HERREN WESSELSKY - HEUTE SCHON GELEBT? - TOUR 2025",
-        "items": [
-            {
-                "id": 0,
-                "name": "DIE HERREN WESSELSKY",
-                "pop": 0,
-                "tracksID": [],
-                "tracksName": [],
-                "tracksPOP": []
-            }
-        ],
-        "location": "BACKSTAGE HALLE",
-        "name": "DIE HERREN WESSELSKY",
-        "tracks": [],
-        "type": "konzert",
-        "url": "https://backstage.eu/die-herren-wesselsky-heute-schon-gelebt-tour-2025.html"
-    },
-    {
-        "date": "2025-02-19T20:00:00",
-        "event": "UNIVERSUM25 - \"Die Maschinen wollen leben\" 2025",
-        "items": [
-            {
-                "id": "6qUSYMDqpAiP0lfyneRdpm",
-                "name": "UNIVERSUM25",
-                "pop": 24,
-                "tracksID": [
-                    "0jHY7SB5dLfBld5jaFnb7C",
-                    "49CmvsQ399ODOBcZI2thdQ",
-                    "3RCfW4wTLEmYZJZuiHiyuu",
-                    "0hLh82l2AsG4wvNKbuOJW4",
-                    "3rYckWYzQZIxh2vPblDB1O",
-                    "1bF2pUqxWVej89e4uO1kyP",
-                    "79bkNfJhlbpFwb4YjeHjkr",
-                    "4Bp7m6qQfeOSveoJe66yy9",
-                    "4S82HZ8knSjUgMm2aFIK8o",
-                    "5VrOvpP7drbCgO6OV9fWSp"
-                ],
-                "tracksName": [
-                    "Am Morgen danach",
-                    "Nur wegen dir",
-                    "Irgendwann",
-                    "Ebbe und Flut",
-                    "Der Traum ist aus",
-                    "Wir warten",
-                    "Genug",
-                    "Ozean",
-                    "Harte Kost",
-                    "Runde um Runde"
-                ],
-                "tracksPOP": [
-                    28,
-                    27,
-                    27,
-                    25,
-                    25,
-                    23,
-                    22,
-                    21,
-                    21,
-                    19
-                ]
-            }
-        ],
-        "location": "BACKSTAGE HALLE",
-        "name": "UNIVERSUM25",
-        "tracks": [
-            "0jHY7SB5dLfBld5jaFnb7C",
-            "3RCfW4wTLEmYZJZuiHiyuu",
-            "4Bp7m6qQfeOSveoJe66yy9"
-        ],
-        "type": "konzert",
-        "url": "https://backstage.eu/universum25-die-maschinen-wollen-leben-2025.html"
-    },
-    {
-        "date": "2025-03-01T20:00:00",
-        "event": "ENEMY INSIDE - \"European Tour 2025\"",
-        "items": [
-            {
-                "id": "4DX0ctdZRMWec9KCiigIXy",
-                "name": "ENEMY INSIDE",
-                "pop": 41,
-                "tracksID": [
-                    "3bLzsG3qnxWAWKv6YNgUK9",
-                    "2uBfIdAX2wn7I3jroi2BFA",
-                    "6NrK2wsEUWLCgUlIXNDxTP",
-                    "3tQfcn1Z3Q079ChW4D2hH4",
-                    "0xETlTD0Lp0IhIwxL4trYK",
-                    "0fsMs4ZN2tBIlztfNxsx2I",
-                    "7FGXbXk4svxfwwVyBiC1ZH",
-                    "1OzBeOzOe8jZDap70TReaU",
-                    "3D8uiQQgFnsUblb78QyOLu",
-                    "63ORadm05lPxeFBJf7NAbo"
-                ],
-                "tracksName": [
-                    "Phoenix",
-                    "Falling Away",
-                    "Angel's Suicide",
-                    "Summer Son",
-                    "Oblivion",
-                    "Crystallize",
-                    "Lullaby",
-                    "Dynamite",
-                    "In My Blood",
-                    "Doorway to Salvation"
-                ],
-                "tracksPOP": [
-                    48,
-                    44,
-                    42,
-                    42,
-                    42,
-                    39,
-                    37,
-                    36,
-                    34,
-                    32
-                ]
-            }
-        ],
-        "location": "BACKSTAGE CLUB",
-        "name": "ENEMY INSIDE",
-        "tracks": [
-            "1OzBeOzOe8jZDap70TReaU",
-            "3bLzsG3qnxWAWKv6YNgUK9",
-            "7FGXbXk4svxfwwVyBiC1ZH"
-        ],
-        "type": "konzert",
-        "url": "https://backstage.eu/enemy-inside-european-tour-2025.html"
-    },
-    {
-        "date": "2025-03-14T20:00:00",
-        "event": "CCOSMO - Live 2025",
-        "items": [
-            {
-                "id": "0DFSWsBGwp4kqEKvU9Akj4",
-                "name": "CCOSMO",
-                "pop": 38,
-                "tracksID": [
-                    "37h9bOXIQ3ebJdWxvBfY6s",
-                    "1KAj8sihsZYYBMCZuXHq3o",
-                    "6Tgq6QgQBNPScKb0R0B3xA",
-                    "5FsQedKvnDRkZEsw5UOIg4",
-                    "3qTeik8Fq0OaHyHECwHD3Q",
-                    "3ZHIJmpMSKuhf6k9gy4nxH",
-                    "6mm5gmBhG6VqVe7gZvDa35",
-                    "0XS3HL4TefjXCvW9LnfvVy",
-                    "2Q9cxltY09kfU8sgeM30Tj",
-                    "70qssJO5Jilo4V3AKCg85N"
-                ],
-                "tracksName": [
-                    "Chicago",
-                    "Tauchen",
-                    "F\u00fcr Noel",
-                    "Parallelen",
-                    "Heimweg",
-                    "N\u00e4he/Distanz",
-                    "Treibsand",
-                    "Nie passiert",
-                    "Pfeil",
-                    "Eisb\u00e4r"
-                ],
-                "tracksPOP": [
-                    44,
-                    42,
-                    42,
-                    43,
-                    38,
-                    36,
-                    36,
-                    30,
-                    31,
-                    31
-                ]
-            }
-        ],
-        "location": "BACKSTAGE HALLE",
-        "name": "CCOSMO",
-        "tracks": [
-            "37h9bOXIQ3ebJdWxvBfY6s",
-            "5FsQedKvnDRkZEsw5UOIg4",
-            "6Tgq6QgQBNPScKb0R0B3xA"
-        ],
-        "type": "konzert",
-        "url": "https://backstage.eu/ccosmo-live-2025.html"
-    },
-    {
         "date": "2027-12-30T17:00:00",
         "event": "Name des Events \n\n                                            Untertitel des Events",
         "items": [
@@ -47777,5 +47777,1288 @@
         "tracks": [],
         "type": "konzert",
         "url": "https://www.feierwerk.de/konzert-kulturprogramm/detail/2027-12-30-name-des-events"
+    },
+    {
+        "date": "2024-06-15T20:00:00",
+        "event": "LUSTFINGER - Live 2024",
+        "items": [
+            {
+                "id": "6UbDWaYl7APJYpqneC5QVg",
+                "name": "LUSTFINGER",
+                "pop": 20,
+                "tracksID": [
+                    "2Y2z09iiBhkRNkelxIV5Wj",
+                    "5oJFstututg9aOeBMGvYcC",
+                    "5T8t0MKVOXa8Ax0QYsukqc",
+                    "7wbuydmoKMyHVbNoLM2cep",
+                    "44efTYTh20FPa6yqWiXPQy",
+                    "4NCcufbiPkx308cKsX70E9",
+                    "4cbW1fEacoJBrVgL35EPtR",
+                    "48a6ulHISnynNZeLGDY5s5",
+                    "4dKkLFdpbc8gupbWBIwq9P",
+                    "6d48pwgK7ZE1Vmf8oqAoKA"
+                ],
+                "tracksName": [
+                    "Es war ne geile Zeit",
+                    "L\u00f6wenmut",
+                    "Heya Heya TSV",
+                    "F\u00fcr immer verloren",
+                    "Nur Du",
+                    "Gina Baby",
+                    "Wir sind die L\u00f6wen",
+                    "Bitte lieber Staatsanwalt",
+                    "Mami und Papi",
+                    "Gr\u00fcnwalder Stadion"
+                ],
+                "tracksPOP": [
+                    7,
+                    11,
+                    11,
+                    11,
+                    10,
+                    10,
+                    8,
+                    9,
+                    8,
+                    7
+                ]
+            }
+        ],
+        "location": "BACKSTAGE CLUB",
+        "name": "LUSTFINGER",
+        "tracks": [
+            "5T8t0MKVOXa8Ax0QYsukqc",
+            "6d48pwgK7ZE1Vmf8oqAoKA",
+            "7wbuydmoKMyHVbNoLM2cep"
+        ],
+        "type": "konzert",
+        "url": "https://backstage.eu/lustfinger-live-2024.html"
+    },
+    {
+        "date": "2024-06-21T00:00:00",
+        "event": "depeche mode party",
+        "items": [],
+        "location": "strom_muc",
+        "tracks": [],
+        "type": "party",
+        "url": "https://strom-muc.de/event/depeche-mode-party/"
+    },
+    {
+        "date": "2024-06-26T08:00:00",
+        "event": "Bake This Musical Comedy Show",
+        "items": [
+            {
+                "id": 0,
+                "name": "Bake This Musical Comedy Show",
+                "pop": 0,
+                "tracksID": [],
+                "tracksName": [],
+                "tracksPOP": []
+            }
+        ],
+        "location": "Heppel&Ettlich",
+        "tracks": [],
+        "type": "Englisches Improtheater",
+        "url": "https://www.yesticket.org/event/en/bake-this-musical-comedy-show-26-06-24/"
+    },
+    {
+        "date": "2024-06-26T20:00:00",
+        "event": "ALPHA WOLF - Live 2024",
+        "items": [
+            {
+                "id": "2tjnvrUmP46XNjFh9V0NGc",
+                "name": "ALPHA WOLF",
+                "pop": 53,
+                "tracksID": [
+                    "3coeo9H305LiuDbXXn9ANe",
+                    "0qW7uuJfh6tuDocaamHi0I",
+                    "528zV1Ydi8TCkaAKntyRT5",
+                    "0MLktMbt74tMfIg4tAZqbU",
+                    "0ksLnb86CcSVPtp3jPEO0t",
+                    "1UWb4Kbsax46Xuf1lZmkhC",
+                    "4USWAxwVE2dEbfotjAFYMU",
+                    "5amiUEezPSB9yXMxXpz4Dh",
+                    "4TZGqnkUnh5HMj27rx4YaS",
+                    "4HASzlSPiusVmu0UMJhyId"
+                ],
+                "tracksName": [
+                    "Akudama",
+                    "A Quiet Place to Die",
+                    "Sucks 2 Suck",
+                    "Creep",
+                    "Bring Back The Noise",
+                    "Sub-Zero",
+                    "60cm Of Steel",
+                    "Whenever You're Ready",
+                    "Haunter",
+                    "Bleed 4 You"
+                ],
+                "tracksPOP": [
+                    54,
+                    49,
+                    46,
+                    45,
+                    41,
+                    44,
+                    44,
+                    42,
+                    42,
+                    40
+                ]
+            }
+        ],
+        "location": "BACKSTAGE CLUB",
+        "name": "ALPHA WOLF",
+        "tracks": [
+            "3coeo9H305LiuDbXXn9ANe",
+            "4TZGqnkUnh5HMj27rx4YaS",
+            "5amiUEezPSB9yXMxXpz4Dh"
+        ],
+        "type": "konzert",
+        "url": "https://backstage.eu/alpha-wolf-live-2024.html"
+    },
+    {
+        "date": "2024-07-12T17:00:00",
+        "event": "",
+        "items": [
+            {
+                "id": 0,
+                "name": "VICTORIA RUSINA",
+                "pop": 0,
+                "tracksID": [],
+                "tracksName": [],
+                "tracksPOP": []
+            },
+            {
+                "id": 0,
+                "name": "IRINA STIER",
+                "pop": 0,
+                "tracksID": [],
+                "tracksName": [],
+                "tracksPOP": []
+            },
+            {
+                "id": 0,
+                "name": "AGATA GLUBIAK",
+                "pop": 0,
+                "tracksID": [],
+                "tracksName": [],
+                "tracksPOP": []
+            }
+        ],
+        "location": "feierwerk Farbenladen",
+        "name": "AGATA GLUBIAK",
+        "tracks": [],
+        "type": "konzert",
+        "url": "https://www.feierwerk.de/konzert-kulturprogramm/detail/2024-07-12--8"
+    },
+    {
+        "date": "2024-07-25T22:00:00",
+        "event": "El Flecha Negra + Coco Maria",
+        "items": [
+            {
+                "id": "2LW5Q1jGQvTI3ESyHDC7ce",
+                "name": "El Flecha Negra",
+                "pop": 17,
+                "tracksID": [
+                    "2LRUANj5htC9r1duHXSiDR",
+                    "6B9muIVmUXlPWX31mQX6sW",
+                    "4latD9Ocly4RUq7vAwiuVc",
+                    "1LWoyZwQh4mXOuGnGGWkMv",
+                    "7i1GJl8EylD8H74rJcmQJk",
+                    "6qdL0YD4k8WpMDqrOqpOMK",
+                    "1fD6gHJXxbieRhEB3wlFvT",
+                    "20G70RKNwr7ON68jFShErz",
+                    "2PYJg96wvLAybog0Dqxqxb",
+                    "4BsrJ7Wmjxbu2SYFQMxbuI"
+                ],
+                "tracksName": [
+                    "No me llames",
+                    "Cumbia del Sol",
+                    "Quitapena",
+                    "El Capit\u00e1n Mantarraya",
+                    "No Me Llames - Acoustic",
+                    "Yo la V\u00ed",
+                    "Perdiste el Momento",
+                    "Mamallema",
+                    "La Desconocida",
+                    "Siento - Kutral Dub Remix"
+                ],
+                "tracksPOP": [
+                    15,
+                    15,
+                    14,
+                    10,
+                    9,
+                    8,
+                    8,
+                    8,
+                    7,
+                    5
+                ]
+            },
+            {
+                "id": "5aC4E0zUYjfN871T66NHge",
+                "name": "Coco Maria",
+                "pop": 15,
+                "tracksID": [
+                    "2bt2BPUCL3ZRDpHKP6Rr3c",
+                    "7LEHODFHPPdAwiEudVaW8T"
+                ],
+                "tracksName": [
+                    "Me veo volar",
+                    "Gusto"
+                ],
+                "tracksPOP": [
+                    17,
+                    5
+                ]
+            },
+            {
+                "id": "5aC4E0zUYjfN871T66NHge",
+                "name": "Coco Maria",
+                "pop": 15,
+                "tracksID": [
+                    "2bt2BPUCL3ZRDpHKP6Rr3c",
+                    "7LEHODFHPPdAwiEudVaW8T"
+                ],
+                "tracksName": [
+                    "Me veo volar",
+                    "Gusto"
+                ],
+                "tracksPOP": [
+                    17,
+                    5
+                ]
+            },
+            {
+                "id": "2LW5Q1jGQvTI3ESyHDC7ce",
+                "name": "El Flecha Negra",
+                "pop": 17,
+                "tracksID": [
+                    "2LRUANj5htC9r1duHXSiDR",
+                    "6B9muIVmUXlPWX31mQX6sW",
+                    "4latD9Ocly4RUq7vAwiuVc",
+                    "1LWoyZwQh4mXOuGnGGWkMv",
+                    "7i1GJl8EylD8H74rJcmQJk",
+                    "6qdL0YD4k8WpMDqrOqpOMK",
+                    "1fD6gHJXxbieRhEB3wlFvT",
+                    "20G70RKNwr7ON68jFShErz",
+                    "2PYJg96wvLAybog0Dqxqxb",
+                    "4BsrJ7Wmjxbu2SYFQMxbuI"
+                ],
+                "tracksName": [
+                    "No me llames",
+                    "Cumbia del Sol",
+                    "Quitapena",
+                    "El Capit\u00e1n Mantarraya",
+                    "No Me Llames - Acoustic",
+                    "Yo la V\u00ed",
+                    "Perdiste el Momento",
+                    "Mamallema",
+                    "La Desconocida",
+                    "Siento - Kutral Dub Remix"
+                ],
+                "tracksPOP": [
+                    15,
+                    15,
+                    14,
+                    10,
+                    9,
+                    8,
+                    8,
+                    8,
+                    7,
+                    5
+                ]
+            }
+        ],
+        "location": "import-export",
+        "name": "El Flecha Negra",
+        "tracks": [
+            "2bt2BPUCL3ZRDpHKP6Rr3c",
+            "6B9muIVmUXlPWX31mQX6sW",
+            "7LEHODFHPPdAwiEudVaW8T"
+        ],
+        "type": "konzert",
+        "url": "https://import-export.cc/event/el-flecha-negra-coco-maria/"
+    },
+    {
+        "date": "2024-07-28T20:00:00",
+        "event": "DIARY OF DREAMS - Free&Easy 2024",
+        "items": [
+            {
+                "id": "1tg5jMp8FFjVqjgoxuEbSR",
+                "name": "DIARY OF DREAMS",
+                "pop": 35,
+                "tracksID": [
+                    "7nmEQmD5IEtVC2srvNEc32",
+                    "1K9vr1VEQAq7QGg3ubVqPf",
+                    "7g5Xigl0sO5gmqnwQdgCiu",
+                    "3rn2rvbTdKPlqPovUIZtEk",
+                    "3nQOaLIih4Ltadwer5R3eW",
+                    "3O88RYpWKcY16TaWKG2WrY",
+                    "5gxjHattNVyGJW6zYvFIdJ",
+                    "3gS7CWV4Gnezuk9QXesFPy",
+                    "4tAhpWY9iOzjvvA6Na1RJd",
+                    "3tQeDE3Q4Pk40CvPFO0eoW"
+                ],
+                "tracksName": [
+                    "She and Her Darkness",
+                    "Endless Nights",
+                    "Sinferno",
+                    "Epicon",
+                    "The Valley - Uats Version",
+                    "The Wedding",
+                    "She and Her Darkness - Uats Version",
+                    "The Secret",
+                    "Viva la Bestia",
+                    "The Curse - Fp Version"
+                ],
+                "tracksPOP": [
+                    34,
+                    26,
+                    24,
+                    23,
+                    19,
+                    22,
+                    19,
+                    21,
+                    21,
+                    21
+                ]
+            }
+        ],
+        "location": "BACKSTAGE WERK",
+        "name": "DIARY OF DREAMS",
+        "tracks": [
+            "3O88RYpWKcY16TaWKG2WrY",
+            "3rn2rvbTdKPlqPovUIZtEk",
+            "7nmEQmD5IEtVC2srvNEc32"
+        ],
+        "type": "konzert",
+        "url": "https://backstage.eu/diary-of-dreams-free-easy-2024.html"
+    },
+    {
+        "date": "2024-08-01T20:00:00",
+        "event": "CRIS COSMO - Free&Easy 2024",
+        "items": [
+            {
+                "id": "7cPPXrOkybJR84JuTO6bOK",
+                "name": "CRIS COSMO",
+                "pop": 10,
+                "tracksID": [
+                    "1WPF6ipJOW6rVk1uucgnd7",
+                    "2teRYJFf8cJDNVfgEhR2sB",
+                    "6GOiLPicVaUhxHAwuVMYY1",
+                    "1BBDDQeEu8HO2xuLSP4nl7",
+                    "1Of6qpElPkUVHYzecOTkMG",
+                    "53QeYqGJM9vACfyvznUV8Z",
+                    "46UMVBF48FllzsrLu00l4i",
+                    "5hIHhxxRsvycAz06hX0R4T",
+                    "7ER5dgH1o0OVo9qd566PYi",
+                    "5iyTJ6owfIOsz3KOOHgocY"
+                ],
+                "tracksName": [
+                    "Herzschlag",
+                    "Namast\u00e9",
+                    "In Mannheim weint man zweimal",
+                    "V\u00f6lkerverst\u00e4ndigung",
+                    "Wach auf",
+                    "Die Andern",
+                    "Musik f\u00fcr die Bewegung",
+                    "Unik",
+                    "Alle in einem Boot",
+                    "Reisender"
+                ],
+                "tracksPOP": [
+                    9,
+                    7,
+                    5,
+                    3,
+                    3,
+                    3,
+                    2,
+                    2,
+                    2,
+                    2
+                ]
+            }
+        ],
+        "location": "Backstage Backyard Open Air",
+        "name": "CRIS COSMO",
+        "tracks": [
+            "1WPF6ipJOW6rVk1uucgnd7",
+            "2teRYJFf8cJDNVfgEhR2sB",
+            "5hIHhxxRsvycAz06hX0R4T"
+        ],
+        "type": "konzert",
+        "url": "https://backstage.eu/cris-cosmo-free-easy-2024.html"
+    },
+    {
+        "date": "2024-08-03T00:00:00",
+        "event": "shake it off \u2013 pop hits party",
+        "items": [],
+        "location": "strom_muc",
+        "tracks": [],
+        "type": "party",
+        "url": "https://strom-muc.de/event/shake-it-off/"
+    },
+    {
+        "date": "2024-08-03T20:00:00",
+        "event": "CHAOSBAY - Free&Easy 2024",
+        "items": [
+            {
+                "id": "7GNTvmIi6DDF2XDJKYKoUk",
+                "name": "CHAOSBAY",
+                "pop": 29,
+                "tracksID": [
+                    "7cnKNSGPSUQatpic57soKz",
+                    "4Iw9bevTVZ1crmcjmvVqOo",
+                    "0fwXQnRGqcE8aCravPClDo",
+                    "6dSZv23B2KEFYwUFT9rqbl",
+                    "16n7ZHMhd3m4wMa5wyKhY8",
+                    "2nfYd5u63QE2bhlYX4UvDH",
+                    "56ntjROexKxC8lgJ8IxVqG",
+                    "11SYBkQEejBYKpH0HvzkLE",
+                    "3Gz4SqG7tOqOAuVpG11kA6",
+                    "4EsGqRyxPZNctAJvALwdXh"
+                ],
+                "tracksName": [
+                    "What Is War",
+                    "THE WAY TO HELL",
+                    "ARE YOU AFRAID?",
+                    "2 Billion",
+                    "MONEY",
+                    "Y",
+                    "Message in a Bottle",
+                    "ECSTASY",
+                    "Home",
+                    "REVOLUTION"
+                ],
+                "tracksPOP": [
+                    26,
+                    29,
+                    25,
+                    25,
+                    23,
+                    24,
+                    20,
+                    18,
+                    15,
+                    16
+                ]
+            }
+        ],
+        "location": "BACKSTAGE CLUB",
+        "name": "CHAOSBAY",
+        "tracks": [
+            "4EsGqRyxPZNctAJvALwdXh",
+            "4Iw9bevTVZ1crmcjmvVqOo",
+            "7cnKNSGPSUQatpic57soKz"
+        ],
+        "type": "konzert",
+        "url": "https://backstage.eu/chaosbay-free-easy-2024.html"
+    },
+    {
+        "date": "2024-08-21T00:00:00",
+        "event": "Mdou Moctar",
+        "items": [
+            {
+                "id": "48dgx7iGqLQ3E5KO3pzd94",
+                "name": "mdou moctar",
+                "pop": 41,
+                "tracksID": [
+                    "5KF3OIL7J5Un8y447fBbHR",
+                    "11uAWA4bnmxzVBqtwZEuZl",
+                    "4EwVCBiXHzunO6vZrM7xEX",
+                    "5cQzeHcBjSES0g4qlhTgqY",
+                    "5RHN9R3BqScU4Jzu84U7pZ",
+                    "6Y3OFWI9zIWP4ClMeOUqBx",
+                    "600TH1S8cZaqBzMQnhjeDt",
+                    "7uY3z3xwpGM2sOdiElpQAU",
+                    "2Zq7fkXLt9RKQ4G5iBNYXd",
+                    "2oIqR538s8M1x0zC6ppjXZ"
+                ],
+                "tracksName": [
+                    "Funeral for Justice",
+                    "Imouhar",
+                    "Oh France",
+                    "Takoba",
+                    "Chismiten",
+                    "Sousoume Tamacheq",
+                    "Imajighen",
+                    "Tarhatazed",
+                    "Tchinta",
+                    "Modern Slaves"
+                ],
+                "tracksPOP": [
+                    39,
+                    37,
+                    35,
+                    36,
+                    35,
+                    34,
+                    32,
+                    32,
+                    32,
+                    31
+                ]
+            }
+        ],
+        "location": "Ampere",
+        "name": "mdou moctar",
+        "tracks": [
+            "4EwVCBiXHzunO6vZrM7xEX",
+            "5KF3OIL7J5Un8y447fBbHR",
+            "7uY3z3xwpGM2sOdiElpQAU"
+        ],
+        "type": "konzert",
+        "url": "https://www.muffatwerk.de/de/events/view/6971/mdou-moctar"
+    },
+    {
+        "date": "2024-09-18T00:00:00",
+        "event": "tors \u2013 ins technikum verlegt",
+        "items": [
+            {
+                "id": 0,
+                "name": "tors \u2013 ins technikum verlegt",
+                "pop": 0,
+                "tracksID": [],
+                "tracksName": [],
+                "tracksPOP": []
+            }
+        ],
+        "location": "strom_muc",
+        "name": "tors \u2013 ins technikum verlegt",
+        "tracks": [],
+        "type": "konzert",
+        "url": "https://strom-muc.de/event/tors/"
+    },
+    {
+        "date": "2024-09-20T20:00:00",
+        "event": "NEVER BACK DOWN - Headline Tour 2024",
+        "items": [
+            {
+                "id": "4qyWns3YuVTcRBu3tLfZyS",
+                "name": "NEVER BACK DOWN",
+                "pop": 25,
+                "tracksID": [
+                    "3FHl8efHBFB8TFWv0cs5ZM",
+                    "2N8vjlbCAxAHM0vi2nXre3",
+                    "7tQWoVLumuF1Z7j48wpZCu",
+                    "5OG8DNSwiGHhpSN7H67F0n",
+                    "6SfztCBPObwe7kOrk2igXe",
+                    "5RUU4VnVR3HKoJmUEZpQ32",
+                    "4HkkKEeiGdInRKNz63yPgy",
+                    "5MWLdsrBRzQbtfWqAG0s0Q",
+                    "6z5OUAHTSeIoxKia2Hg2pj",
+                    "68veQi46ZTBq1QxCH6Jl0N"
+                ],
+                "tracksName": [
+                    "One By One",
+                    "Sleepwalking",
+                    "Paradox",
+                    "Dying for Perfection",
+                    "Feed Me Your Lies",
+                    "Nullity",
+                    "Downfall",
+                    "Pathfinder",
+                    "Overdrive",
+                    "Outcast"
+                ],
+                "tracksPOP": [
+                    30,
+                    23,
+                    23,
+                    21,
+                    16,
+                    15,
+                    15,
+                    15,
+                    9,
+                    13
+                ]
+            }
+        ],
+        "location": "BACKSTAGE CLUB",
+        "name": "NEVER BACK DOWN",
+        "tracks": [
+            "3FHl8efHBFB8TFWv0cs5ZM",
+            "5OG8DNSwiGHhpSN7H67F0n",
+            "68veQi46ZTBq1QxCH6Jl0N"
+        ],
+        "type": "konzert",
+        "url": "https://backstage.eu/never-back-down-headline-tour-2024.html"
+    },
+    {
+        "date": "2024-09-25T20:00:00",
+        "event": "KALANDRA - Live 2024",
+        "items": [
+            {
+                "id": "2N0vFuOoMtAQfBmhsRo24e",
+                "name": "KALANDRA",
+                "pop": 46,
+                "tracksID": [
+                    "0k1cEQqg2tLCPMyDtua9sk",
+                    "596DO7Czmqib9aHtYNkE3I",
+                    "4KLTJBsPLOFsNsnGHivuX2",
+                    "4rvqIB9Ki2zjBBdYiokchz",
+                    "35CDAyZQ5Ok9R4jG0950vy",
+                    "6IiDZInzA2Ecv2UoIXhhQ3",
+                    "2SZko1VlhvcECPO6mY8LPS",
+                    "2osUTKU84Wz5dcQkTg5MUJ",
+                    "7MH5wAsKUKal7sBwhiDXTL",
+                    "4PLfvRsrfbVdMhu1vA8R4N"
+                ],
+                "tracksName": [
+                    "M\u00f8rke Skoger - Extended",
+                    "Helvegen",
+                    "Brave New World",
+                    "My Kingdom - Kingdom Two Crowns: Norse Lands Original Game Trailer Soundtrack",
+                    "Skogtroll - Extended",
+                    "Borders",
+                    "The Waiting Game",
+                    "Wonderland",
+                    "Virkelighetens Etterklang",
+                    "The State of the World"
+                ],
+                "tracksPOP": [
+                    45,
+                    44,
+                    43,
+                    41,
+                    40,
+                    39,
+                    37,
+                    37,
+                    35,
+                    35
+                ]
+            }
+        ],
+        "location": "BACKSTAGE HALLE",
+        "name": "KALANDRA",
+        "tracks": [
+            "0k1cEQqg2tLCPMyDtua9sk",
+            "35CDAyZQ5Ok9R4jG0950vy",
+            "4KLTJBsPLOFsNsnGHivuX2"
+        ],
+        "type": "konzert",
+        "url": "https://backstage.eu/kalandra-live-2024.html"
+    },
+    {
+        "date": "2024-10-02T20:00:00",
+        "event": "BOYSETSFIRE - Live 2024",
+        "items": [
+            {
+                "id": "6kw9NLPmn9FdQq0gAIx0Bj",
+                "name": "BOYSETSFIRE",
+                "pop": 35,
+                "tracksID": [
+                    "3f0VeXFWFrDjt9BFmRPIej",
+                    "7GJTPGtHAR606ovK4gUu6a",
+                    "3ekjqtjoDwy5YLuGtKoXDO",
+                    "3T1IBf7C2gU6pWCHBo250M",
+                    "496rpEkcC5XZNDLwIq65Wy",
+                    "450H5ytmWAlMuBUnE2eCY7",
+                    "4c724IJ0FQuSIHwPyYbyzU",
+                    "4Dui9M36CgrBuW4yp0tEE7",
+                    "3UazjRonjMgFBOYjfOxAm7",
+                    "3VA4pnz7d1QfitXMFk6HSp"
+                ],
+                "tracksName": [
+                    "Rookie",
+                    "Empire",
+                    "Handful Of Redemption",
+                    "My Life In The Knife Trade",
+                    "After The Eulogy",
+                    "Foundations To Burn",
+                    "Last Year's Nest",
+                    "Still Waiting For The Punchline",
+                    "Requiem",
+                    "One Match"
+                ],
+                "tracksPOP": [
+                    39,
+                    31,
+                    27,
+                    26,
+                    26,
+                    24,
+                    23,
+                    22,
+                    21,
+                    20
+                ]
+            }
+        ],
+        "location": "BACKSTAGE WERK",
+        "name": "BOYSETSFIRE",
+        "tracks": [
+            "3f0VeXFWFrDjt9BFmRPIej",
+            "4Dui9M36CgrBuW4yp0tEE7",
+            "7GJTPGtHAR606ovK4gUu6a"
+        ],
+        "type": "konzert",
+        "url": "https://backstage.eu/boysetsfire-live-2024.html"
+    },
+    {
+        "date": "2024-10-05T00:00:00",
+        "event": "northlane",
+        "items": [
+            {
+                "id": "3qyg72RGnGdF521zMU02u9",
+                "name": "northlane",
+                "pop": 51,
+                "tracksID": [
+                    "1MHCrrThxRZaWLNDo7bEjC",
+                    "2gYLeC5Ikd8DFSJfwGZJp3",
+                    "0W9ZFdjumKClsj0UhYYnP3",
+                    "6jjx1KvWK4OAzD0JimzHiY",
+                    "1ZiTdxdpKQuovW4ERgBIO2",
+                    "03jUMnAF30sYJ2EsPB2JtG",
+                    "73Lomnc1LsYSkjRBuk0jQd",
+                    "5UrZ1UfrJhyB7RMmWaRjXO",
+                    "3eovN9jZVyLrcbRF7MBXUs",
+                    "62S0BCAIxt8BlOOo7jdkkV"
+                ],
+                "tracksName": [
+                    "Afterimage (feat. Ian Kenny, Karnivool)",
+                    "Bloodline",
+                    "Clockwork",
+                    "Dante",
+                    "Quantum Flux",
+                    "Miasma (feat. Winston McCall)",
+                    "Let Me Disappear",
+                    "Crash & Burn",
+                    "Carbonized",
+                    "Kraft (feat. Brendon Padjasek, Structures)"
+                ],
+                "tracksPOP": [
+                    42,
+                    44,
+                    43,
+                    42,
+                    44,
+                    38,
+                    42,
+                    41,
+                    38,
+                    38
+                ]
+            }
+        ],
+        "location": "strom_muc",
+        "name": "northlane",
+        "tracks": [
+            "1ZiTdxdpKQuovW4ERgBIO2",
+            "2gYLeC5Ikd8DFSJfwGZJp3",
+            "6jjx1KvWK4OAzD0JimzHiY"
+        ],
+        "type": "konzert",
+        "url": "https://strom-muc.de/event/northlane/"
+    },
+    {
+        "date": "2024-10-17T00:00:00",
+        "event": "jazmin bean",
+        "items": [
+            {
+                "id": "6blEmsLU25ewy8hHtgZaSL",
+                "name": "jazmin bean",
+                "pop": 53,
+                "tracksID": [
+                    "22FniXvTKV9IC6IhxCpYve",
+                    "6a9gDPGHaLfiM2XYrKXOVy",
+                    "0xLCawHAfE3tqlPWRvhT49",
+                    "5ckS4yxTv95IUv6jQK498B",
+                    "4Cbrtoamv6acNiHNAUKnj0",
+                    "0lUSIaEhUApWIbru6IX21z",
+                    "4xcTKltCfTCqYNtJfShnX8",
+                    "4BcXt75MwkJLJe7ndU2MZ2",
+                    "4xlXrO4n68KEfAJK1JDux5",
+                    "2x3itjuAmJkxaLyfHJMAQp"
+                ],
+                "tracksName": [
+                    "Hello Kitty",
+                    "Yandere",
+                    "Saccharine",
+                    "Favourite Toy",
+                    "Princess Castle",
+                    "Worldwide Torture",
+                    "Puppy Pound",
+                    "Piggie",
+                    "You Know What You\u2019ve Done",
+                    "Terrified"
+                ],
+                "tracksPOP": [
+                    55,
+                    51,
+                    50,
+                    42,
+                    44,
+                    42,
+                    42,
+                    39,
+                    38,
+                    39
+                ]
+            }
+        ],
+        "location": "strom_muc",
+        "name": "jazmin bean",
+        "tracks": [
+            "0xLCawHAfE3tqlPWRvhT49",
+            "22FniXvTKV9IC6IhxCpYve",
+            "6a9gDPGHaLfiM2XYrKXOVy"
+        ],
+        "type": "konzert",
+        "url": "https://strom-muc.de/event/jazmin-bean/"
+    },
+    {
+        "date": "2024-10-17T20:00:00",
+        "event": " JUNE COC\u00d3  - Konzert",
+        "items": [
+            {
+                "id": 0,
+                "name": "JUNE COC\u00d3  - Konzert",
+                "pop": 0,
+                "tracksID": [],
+                "tracksName": [],
+                "tracksPOP": []
+            }
+        ],
+        "location": "Heppel&Ettlich",
+        "tracks": [],
+        "type": "Konzert",
+        "url": "https://loveyourartist.com/de/events/june-coco-konzert-munchen-ZN1ZHL"
+    },
+    {
+        "date": "2024-10-23T00:00:00",
+        "event": "deadletter",
+        "items": [
+            {
+                "id": "4MfUQ99z2kgMnl9hAwffBx",
+                "name": "deadletter",
+                "pop": 35,
+                "tracksID": [
+                    "14lyCslumg3lMiYMRwmP4u",
+                    "547Ad3KBxWgNCmLbot2vf5",
+                    "5jHIpRdAg7vLJ14XrHK32m",
+                    "0cayHNrvgp3mxaIOEF1XV1",
+                    "57g6SFW7Fc8bCyni1BCYTM",
+                    "4rioQT2vEmXfcI8GrY3Ol3",
+                    "7dLsiya9SPVDn3CuuBpsUv",
+                    "2NbpywbUXTTZQTJtOPsASb",
+                    "7LQulGF6xD5cAVDZA12agn",
+                    "1rTQGBdZDnHloAthdQYG2B"
+                ],
+                "tracksName": [
+                    "Binge",
+                    "Madge's Declaration",
+                    "Mere Mortal",
+                    "The Snitching Hour",
+                    "Mother",
+                    "Degenerate Inanimate",
+                    "Weights",
+                    "Pop Culture Connoisseur",
+                    "Fit For Work",
+                    "Zeitgeist"
+                ],
+                "tracksPOP": [
+                    39,
+                    31,
+                    28,
+                    25,
+                    27,
+                    23,
+                    20,
+                    24,
+                    23,
+                    19
+                ]
+            }
+        ],
+        "location": "strom_muc",
+        "name": "deadletter",
+        "tracks": [
+            "0cayHNrvgp3mxaIOEF1XV1",
+            "14lyCslumg3lMiYMRwmP4u",
+            "5jHIpRdAg7vLJ14XrHK32m"
+        ],
+        "type": "konzert",
+        "url": "https://strom-muc.de/event/deadletter/"
+    },
+    {
+        "date": "2024-11-11T20:00:00",
+        "event": "",
+        "items": [
+            {
+                "id": "3ep1YmatQ8L9UKCGYiJNBh",
+                "name": "BEEN STELLAR",
+                "pop": 35,
+                "tracksID": [
+                    "1IQx5nJcdso6KsMloQSWza",
+                    "4IMuGCqtZr4SqOL4eOHhkF",
+                    "7ycbGYrE2GMshCIiv2I33j",
+                    "2br7c0YcCucYv0YhoXExad",
+                    "4RjkkRCbOjTHqq5f7u2bCw",
+                    "6NbywDH5W9ZaSNWlnqAcAB",
+                    "1oPuvI6N2TDeynwrqT1K7F",
+                    "5Ns3YcSiLiZ3bYNmq6F00b",
+                    "1Wo5tkzxPBoqOfwoTSMNJU",
+                    "57OSA3XgT9RsOLHY4259Fx"
+                ],
+                "tracksName": [
+                    "Pumpkin",
+                    "Sweet",
+                    "All In One",
+                    "Passing Judgment",
+                    "Fear of Heights",
+                    "Kids 1995",
+                    "Manhattan Youth",
+                    "My Honesty",
+                    "Ohm",
+                    "Arthur"
+                ],
+                "tracksPOP": [
+                    40,
+                    34,
+                    33,
+                    31,
+                    32,
+                    27,
+                    26,
+                    23,
+                    21,
+                    19
+                ]
+            }
+        ],
+        "location": "feierwerk Orangehouse",
+        "name": "BEEN STELLAR",
+        "tracks": [
+            "1IQx5nJcdso6KsMloQSWza",
+            "2br7c0YcCucYv0YhoXExad",
+            "4RjkkRCbOjTHqq5f7u2bCw"
+        ],
+        "type": "konzert",
+        "url": "https://www.feierwerk.de/konzert-kulturprogramm/detail/2024-11-11-"
+    },
+    {
+        "date": "2024-11-12T00:00:00",
+        "event": "villagers",
+        "items": [
+            {
+                "id": "2m1l9MLSslzup4vvokKgvQ",
+                "name": "villagers",
+                "pop": 52,
+                "tracksID": [
+                    "0TQ8ZHFhrbH9I0WRjIzOCQ",
+                    "281ioxkZbJ3p9hCvjD2bon",
+                    "1rCPg5GOtes0FIo1BzgvUi",
+                    "3gwurt17Arq2OTWaM7qZPW",
+                    "1widQ9TODdm2HQT95lgfQg",
+                    "5sTcB227je1ByKWTEBj2me",
+                    "1BBI0SWpDYIoOmgue9ncqI",
+                    "0E9vvI2kGtr8TUW2kJmGX4",
+                    "5IfcXPzEK1u7I9H7iIN8Pa",
+                    "2a4I5cNDWGtUzZKYTa7woR"
+                ],
+                "tracksName": [
+                    "Nothing Arrived - Live from Spotify London",
+                    "Everything I Am Is Yours",
+                    "A Trick of the Light",
+                    "The Wonder Of You",
+                    "Dawning On Me",
+                    "You Lucky One",
+                    "I Want What I Don't Need",
+                    "Courage",
+                    "That Golden Time",
+                    "Truly Alone"
+                ],
+                "tracksPOP": [
+                    53,
+                    53,
+                    46,
+                    44,
+                    44,
+                    38,
+                    40,
+                    40,
+                    35,
+                    39
+                ]
+            }
+        ],
+        "location": "strom_muc",
+        "name": "villagers",
+        "tracks": [
+            "0TQ8ZHFhrbH9I0WRjIzOCQ",
+            "1BBI0SWpDYIoOmgue9ncqI"
+        ],
+        "type": "konzert",
+        "url": "https://strom-muc.de/event/villagers/"
+    },
+    {
+        "date": "2024-12-11T19:30:00",
+        "event": "Leepa",
+        "items": [
+            {
+                "id": "066IQRKXdi1o3b9yGxA2SD",
+                "name": "leepa",
+                "pop": 23,
+                "tracksID": [
+                    "5f9lBYomdenoiOavfabNjO",
+                    "3k7g0xHFCX2ezCVCHaikIf",
+                    "17J1yTfrglZcsfs0G5rppK",
+                    "03S9KJa8pBjjV7K71pNQgf",
+                    "6ifyDNIdDnD3SHMuaYWwZc",
+                    "6YaIvnJ3xDgIleE5m3GAEr",
+                    "4JBTSU5cDBGiVXb2kRH8eg",
+                    "34ImV9YmppIaXayZqaGUSL",
+                    "5ondzWcRZXnixWizu8XlmH",
+                    "2WojSryq2dTZpfiiEYXd3o"
+                ],
+                "tracksName": [
+                    "switch places",
+                    "eBay",
+                    "Entschuldigung",
+                    "find mich",
+                    "i'm sorry, are you?",
+                    "so far it just sucked",
+                    "how to live",
+                    "Misery Loves Company",
+                    "renn",
+                    "blood"
+                ],
+                "tracksPOP": [
+                    25,
+                    23,
+                    22,
+                    21,
+                    20,
+                    18,
+                    14,
+                    13,
+                    10,
+                    7
+                ]
+            }
+        ],
+        "location": "milla_club",
+        "name": "leepa",
+        "tracks": [
+            "03S9KJa8pBjjV7K71pNQgf",
+            "5f9lBYomdenoiOavfabNjO",
+            "6YaIvnJ3xDgIleE5m3GAEr"
+        ],
+        "type": "konzert",
+        "url": "https://milla-club.de/leepa/"
+    },
+    {
+        "date": "2024-12-13T00:00:00",
+        "event": "p\u00f6bel mc",
+        "items": [
+            {
+                "id": "14vpPUcjNK1PRQakYlIZkj",
+                "name": "p\u00f6bel mc",
+                "pop": 43,
+                "tracksID": [
+                    "3oKZkTL8O5V7VPan93NRrA",
+                    "3V0J1zzpJTAS6FXF1SkAcb",
+                    "429uQVsAA1HMKvozKqEEkQ",
+                    "7fS0qllMEjKDRRTh7zzW0V",
+                    "0q2Gi0e2ZlV32PPA1RQK2X",
+                    "3dxVXi5DNxY46mXxU1qtCe",
+                    "4IxfAze0OLDKY8jL0H5ltQ",
+                    "1FQZd84ECQYa5dCLgXwGp6",
+                    "0BCH0pEKkUrhZwv0842Cm9",
+                    "3zxnMMRpoYzJuSi5YgSeW2"
+                ],
+                "tracksName": [
+                    "Heliaktion",
+                    "Bildungsb\u00fcrgerprolls",
+                    "Sud",
+                    "Rollkragenschl\u00e4ger",
+                    "Bock auf Crime",
+                    "P\u00f6bel & Dance",
+                    "Lowleveldrip",
+                    "Rundka",
+                    "Schlauer Hauer",
+                    "Arm in Arm"
+                ],
+                "tracksPOP": [
+                    38,
+                    37,
+                    36,
+                    35,
+                    34,
+                    32,
+                    30,
+                    30,
+                    30,
+                    27
+                ]
+            }
+        ],
+        "location": "strom_muc",
+        "name": "p\u00f6bel mc",
+        "tracks": [
+            "0q2Gi0e2ZlV32PPA1RQK2X",
+            "1FQZd84ECQYa5dCLgXwGp6",
+            "3oKZkTL8O5V7VPan93NRrA"
+        ],
+        "type": "konzert",
+        "url": "https://strom-muc.de/event/poebel-mc/"
+    },
+    {
+        "date": "2024-12-19T00:00:00",
+        "event": "akne kid joe",
+        "items": [
+            {
+                "id": "7gc8dP95DhyLjx5QZMNM3z",
+                "name": "akne kid joe",
+                "pop": 32,
+                "tracksID": [
+                    "6PCpEEobYr1XTHdHgfBUVn",
+                    "1JeT8QF7YTxFWZUTU5LT9x",
+                    "4KzhNHYH0oH8FqzdJXndGV",
+                    "4QDAS8QQMvoBk2039oOKs7",
+                    "1Ahvk4nwCcUbCSilqLq1tU",
+                    "50h2pXqXIxzJH44ZkTpflK",
+                    "1Nun996Ju2qL8AwchgjRiG",
+                    "46xzJqJpsAI3wffXupsX1m",
+                    "5yX9kaNdxiaAmwjDZvvFZm",
+                    "5HwZqJcVLQuFJRbkDFti7G"
+                ],
+                "tracksName": [
+                    "What AfD thinks we do...",
+                    "Vintage Store",
+                    "50/50",
+                    "Zwischen Thermomix & Webergrill",
+                    "Legende am Glas",
+                    "Die z\u00fcndende Idee",
+                    "Sarah (Frau, auch in ner Band)",
+                    "Self-titled",
+                    "Mindestbestellwert",
+                    "Danke f\u00fcrs Gespr\u00e4ch"
+                ],
+                "tracksPOP": [
+                    35,
+                    18,
+                    19,
+                    22,
+                    23,
+                    19,
+                    19,
+                    20,
+                    20,
+                    17
+                ]
+            }
+        ],
+        "location": "strom_muc",
+        "name": "akne kid joe",
+        "tracks": [
+            "4KzhNHYH0oH8FqzdJXndGV",
+            "50h2pXqXIxzJH44ZkTpflK",
+            "6PCpEEobYr1XTHdHgfBUVn"
+        ],
+        "type": "konzert",
+        "url": "https://strom-muc.de/event/akne-kid-joe/"
+    },
+    {
+        "date": "2024-12-28T19:30:00",
+        "event": "THE ROCK `N\u00b4 ROLL WRESTLING BASH 2024",
+        "items": [
+            {
+                "id": 0,
+                "name": "THE ROCK `N\u00b4 ROLL WRESTLING BASH 2024",
+                "pop": 0,
+                "tracksID": [],
+                "tracksName": [],
+                "tracksPOP": []
+            }
+        ],
+        "location": "BACKSTAGE WERK",
+        "name": "THE ROCK `N\u00b4 ROLL WRESTLING BASH 2024",
+        "tracks": [],
+        "type": "konzert",
+        "url": "https://backstage.eu/the-rock-n-roll-wrestling-bash-2024.html"
+    },
+    {
+        "date": "2025-03-06T00:00:00",
+        "event": "eli preiss",
+        "items": [
+            {
+                "id": "7JmNUb5QPlIV4psjRqNsID",
+                "name": "eli preiss",
+                "pop": 44,
+                "tracksID": [
+                    "2kNpg9AiImLPLhDDbgWgZs",
+                    "4Qk1JxvjzD3rd6J6DfIxJA",
+                    "0YVWURTjd5tT6w6nwr3kQ7",
+                    "1ZeMeVPCZlLMIUwJX8VF3k",
+                    "1GiTy9GSnFvMV16cQciWOg",
+                    "75Gr1r6Du0K5uqyP53yjPl",
+                    "0fa24jD1FAdqpmreXGNRlu",
+                    "2eAfsoZfx5pTDfUUvBTjIX",
+                    "1XKPITJ6zB8me6vOdCdtuJ",
+                    "5HdBfUemmmOK6JDnNMCNfE"
+                ],
+                "tracksName": [
+                    "Party mit mir selbst",
+                    "wein in wien",
+                    "Ohne Dich",
+                    "Ich Such",
+                    "(von hier bis) Tokio",
+                    "Nikes",
+                    "Nimmasatt",
+                    "(Nicht) Perfekt",
+                    "Pew Pew",
+                    "Bad Guyz"
+                ],
+                "tracksPOP": [
+                    46,
+                    40,
+                    34,
+                    39,
+                    33,
+                    31,
+                    35,
+                    32,
+                    32,
+                    32
+                ]
+            }
+        ],
+        "location": "strom_muc",
+        "name": "eli preiss",
+        "tracks": [
+            "1ZeMeVPCZlLMIUwJX8VF3k",
+            "2kNpg9AiImLPLhDDbgWgZs"
+        ],
+        "type": "konzert",
+        "url": "https://strom-muc.de/event/eli-preiss-2/"
+    },
+    {
+        "date": "2025-03-21T20:00:00",
+        "event": "ALADDIN JAMEEL - Red flag Tour 2025",
+        "items": [
+            {
+                "id": 0,
+                "name": "ALADDIN JAMEEL",
+                "pop": 0,
+                "tracksID": [],
+                "tracksName": [],
+                "tracksPOP": []
+            }
+        ],
+        "location": "Backstage Arena",
+        "name": "ALADDIN JAMEEL",
+        "tracks": [],
+        "type": "konzert",
+        "url": "https://backstage.eu/aladdin-jameel-redflag-tour-2025.html"
     }
 ]
